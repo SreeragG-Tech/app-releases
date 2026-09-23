@@ -8,13 +8,14 @@
   "contactEmail": "sreeragg4136@gmail.com",
   "accentColor": "#3b82f6",
   "storeIcon": "",
-  "developerProfileImage": "",
-  "developerProfileImageAssetId": "",
-  "developerProfileImageType": "default",
-  "developerProfileImageVersion": 1,
-  "developerProfileImageUpdatedAt": 0,
+  "developerProfileImage": "asset-screenshot-1790132404324-833121",
+  "developerProfileImageAssetId": "asset-screenshot-1790132404324-833121",
+  "developerProfileImageType": "custom",
+  "developerProfileImageVersion": 2,
+  "developerProfileImageUpdatedAt": 1790132411535,
   "storeLogo": "",
   "storeLogoType": "default",
   "storeLogoVersion": 1,
-  "storeLogoUpdatedAt": 0
+  "storeLogoUpdatedAt": 0,
+  "developerDescription": "Personal App Store by Sreerag G • Independent / AI-Powered"
 }
