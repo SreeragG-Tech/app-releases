@@ -1,8 +1,139 @@
 [
   {
-    "id": "test-app-1",
-    "name": "Test App 1",
-    "slug": "test-app-1",
-    "version": "1.0.0"
+    "id": "app-aura-video-player",
+    "name": "Aura Video Player",
+    "slug": "aura-video-player",
+    "tagline": "High-performance AMOLED video player with hardware decoding",
+    "shortDescription": "Native Android video player engineered for OLED displays with gesture scrubbing, dual audio tracks, and hardware-accelerated HDR playback.",
+    "description": "Aura Video Player is an ultra-optimized media player for Android designed to showcase OLED and AMOLED displays at maximum fidelity.\n\nFeaturing zero advertising, sub-pixel picture-in-picture, custom gesture brightness and volume sliders, subtitle synchronization, and multi-format audio track pass-through.",
+    "icon": "PlayCircle",
+    "iconColor": "#06b6d4",
+    "iconBgGradient": "linear-gradient(135deg, #0284c7 0%, #0369a1 50%, #082f49 100%)",
+    "accentColor": "#06b6d4",
+    "category": "media",
+    "categoryName": "Audio & Media",
+    "tags": [
+      "Video",
+      "Player",
+      "AMOLED",
+      "HDR",
+      "Media",
+      "Android"
+    ],
+    "technologies": [
+      "Kotlin",
+      "ExoPlayer",
+      "Media3",
+      "Jetpack Compose"
+    ],
+    "version": "1.4.0",
+    "versionCode": 14,
+    "apkSize": "24.2 MB",
+    "size": "24.2 MB",
+    "packageName": "tech.sreeragg.auraplayer",
+    "minSdk": "Android 10.0+ (API 29)",
+    "targetSdk": "Android 14.0+ (API 34)",
+    "architectures": [
+      "arm64-v8a",
+      "x86_64",
+      "Universal"
+    ],
+    "rating": 4.9,
+    "reviewCount": 312,
+    "downloads": 84200,
+    "downloadsFormatted": "84K",
+    "platform": [
+      "android"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@SreeragG-Tech",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1200&auto=format&fit=crop&q=80",
+    "screenshots": [
+      {
+        "id": "aura-s1",
+        "url": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=800&auto=format&fit=crop&q=80",
+        "caption": "True pitch-black AMOLED interface during playback",
+        "orientation": "landscape"
+      },
+      {
+        "id": "aura-s2",
+        "url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&auto=format&fit=crop&q=80",
+        "caption": "Intuitive swipe gestures for brightness, volume, and seeking",
+        "orientation": "portrait"
+      }
+    ],
+    "features": [
+      "Hardware-accelerated 4K & HDR playback",
+      "Pitch black AMOLED UI mode",
+      "Gesture control for seek, brightness, and audio volume",
+      "Background audio playback and PiP window",
+      "No ads, no trackers, 100% offline playback"
+    ],
+    "whatsNew": "Added HDR10+ tone mapping and improved gesture scrub precision.",
+    "changelog": [
+      {
+        "version": "1.4.0",
+        "date": "Sep 15, 2026",
+        "notes": [
+          "HDR10+ tone mapping optimization",
+          "Volume gesture smoothing"
+        ]
+      },
+      {
+        "version": "1.3.0",
+        "date": "Aug 10, 2026",
+        "notes": [
+          "Dual subtitle track support",
+          "Initial release on App Store"
+        ]
+      }
+    ],
+    "permissions": [
+      {
+        "name": "Read Storage Media",
+        "description": "Required to scan and play video files stored on device.",
+        "required": true
+      }
+    ],
+    "compatibility": {
+      "minAndroid": "Android 10.0+ (API 29)",
+      "architecture": [
+        "arm64-v8a",
+        "x86_64",
+        "Universal"
+      ]
+    },
+    "downloadUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/aura-video-player-v1.4.0/AuraVideoPlayer-v1.4.0.apk",
+    "apkUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/aura-video-player-v1.4.0/AuraVideoPlayer-v1.4.0.apk",
+    "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/aura-video-player-v1.4.0",
+    "githubAssetUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/aura-video-player-v1.4.0/AuraVideoPlayer-v1.4.0.apk",
+    "packageType": "apk",
+    "releaseDate": "Aug 10, 2026",
+    "updatedDate": "Sep 15, 2026",
+    "featured": true,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": true,
+    "status": "published",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [
+      {
+        "version": "1.3.0",
+        "versionCode": 13,
+        "releaseDate": "Aug 10, 2026",
+        "whatsNew": "Initial release of Aura Video Player.",
+        "apkSize": "22.8 MB",
+        "downloadUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/aura-video-player-v1.3.0/AuraVideoPlayer-v1.3.0.apk",
+        "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/aura-video-player-v1.3.0",
+        "githubAssetUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/aura-video-player-v1.3.0/AuraVideoPlayer-v1.3.0.apk",
+        "isCurrent": false
+      }
+    ]
   }
 ]
