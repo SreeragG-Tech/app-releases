@@ -18,41 +18,43 @@
   "storeLogoVersion": 4,
   "storeLogoUpdatedAt": 1790141826611,
   "homeSections": {
+    "popular": {
+      "title": "Popular Applications",
+      "appIds": [],
+      "enabled": true,
+      "subtitle": "Most downloaded by users"
+    },
     "featured": {
       "title": "Featured Applications",
-      "subtitle": "Curated software from SG STORE",
-      "appIds": [],
-      "enabled": true
-    },
-    "recommended": {
-      "title": "Recommended for You",
-      "subtitle": "Selected applications curated for you",
-      "appIds": [],
-      "enabled": true
+      "appIds": [
+        "app-apk-mudh5e9q"
+      ],
+      "enabled": true,
+      "subtitle": "Curated software from SG STORE"
     },
     "newReleases": {
       "title": "New Releases",
-      "subtitle": "Freshly compiled software and releases",
       "appIds": [],
-      "enabled": true
+      "enabled": true,
+      "subtitle": "Freshly compiled software and releases"
+    },
+    "recommended": {
+      "title": "Recommended for You",
+      "appIds": [],
+      "enabled": true,
+      "subtitle": "Selected applications curated for you"
     },
     "topDownloaded": {
       "title": "Top Downloaded",
-      "subtitle": "Most downloaded software with verified APKs",
       "appIds": [],
-      "enabled": true
+      "enabled": true,
+      "subtitle": "Most downloaded software with verified APKs"
     },
     "recentlyUpdated": {
       "title": "Recently Updated",
-      "subtitle": "Latest improvements and optimizations",
       "appIds": [],
-      "enabled": true
-    },
-    "popular": {
-      "title": "Popular Applications",
-      "subtitle": "Most downloaded by users",
-      "appIds": [],
-      "enabled": true
+      "enabled": true,
+      "subtitle": "Latest improvements and optimizations"
     }
   },
   "developerDescription": "Full-stack and Android developer passionate about crafting pixel-perfect, privacy-respecting, high-performance software. Focused on Kotlin, Jetpack Compose, and modern Android architecture."
