@@ -40,7 +40,10 @@
     },
     "recommended": {
       "title": "Recommended for You",
-      "appIds": [],
+      "appIds": [
+        "app-kootu-bhaaki",
+        "app-jayadoc"
+      ],
       "enabled": true,
       "subtitle": "Selected applications curated for you"
     },
