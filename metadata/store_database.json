@@ -47,7 +47,7 @@
       "website": "https://github.com",
       "verified": true
     },
-    "downloads": 1,
+    "downloads": 2,
     "iconColor": "#a855f7",
     "platforms": [
       "android"
@@ -102,7 +102,7 @@
     "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/umapaint-v1.0",
     "previousVersions": [],
     "shortDescription": "a highlevel painting app",
-    "downloadsFormatted": "1",
+    "downloadsFormatted": "2",
     "primaryDownloadAction": "apkUrl"
   },
   {
