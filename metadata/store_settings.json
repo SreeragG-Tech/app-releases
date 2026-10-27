@@ -20,11 +20,11 @@
   "homeSections": {
     "featured": {
       "title": "Featured Applications",
+      "subtitle": "Curated software from SG STORE",
       "appIds": [
         "app-apk-mudh5e9q"
       ],
-      "enabled": true,
-      "subtitle": "Curated software from SG STORE"
+      "enabled": true
     },
     "recommended": {
       "title": "Recommended for You",
@@ -58,8 +58,10 @@
     },
     "carousel": {
       "title": "Featured Carousel",
-      "subtitle": "Large rotating banner showcase",
-      "appIds": [],
+      "subtitle": "Prominent rotating banner showcase",
+      "appIds": [
+        "app-apk-mudh5e9q"
+      ],
       "enabled": true
     }
   },
