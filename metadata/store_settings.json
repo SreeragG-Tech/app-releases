@@ -18,6 +18,14 @@
   "storeLogoVersion": 4,
   "storeLogoUpdatedAt": 1790141826611,
   "homeSections": {
+    "carousel": {
+      "title": "Featured Carousel",
+      "subtitle": "Prominent rotating banner showcase",
+      "appIds": [
+        "app-apk-mudh5e9q"
+      ],
+      "enabled": true
+    },
     "featured": {
       "title": "Featured Applications",
       "subtitle": "Curated software from SG STORE",
@@ -28,7 +36,9 @@
     },
     "recommended": {
       "title": "Recommended for You",
-      "appIds": [],
+      "appIds": [
+        "app-apk-mudh5e9q"
+      ],
       "enabled": true,
       "subtitle": "Selected applications curated for you"
     },
@@ -55,14 +65,6 @@
       "appIds": [],
       "enabled": true,
       "subtitle": "Most downloaded by users"
-    },
-    "carousel": {
-      "title": "Featured Carousel",
-      "subtitle": "Prominent rotating banner showcase",
-      "appIds": [
-        "app-apk-mudh5e9q"
-      ],
-      "enabled": true
     }
   },
   "developerDescription": "Full-stack and Android developer passionate about crafting pixel-perfect, privacy-respecting, high-performance software. Focused on Kotlin, Jetpack Compose, and modern Android architecture."
