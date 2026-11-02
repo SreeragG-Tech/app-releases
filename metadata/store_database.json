@@ -51,7 +51,7 @@
     "developer": {
       "name": "Sreerag G",
       "handle": "@sreeragg",
-      "avatar": "asset-screenshot-1790132924586-wrk59s?v=4",
+      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
@@ -59,9 +59,12 @@
     "screenshots": [
       {
         "id": "sc-1",
-        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793609277813-mbfr67.png",
         "caption": "Main Application Interface",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793609277813-mbfr67",
+        "fileName": "bc38c70b-93d7-424c-9ed3-9ef7e2159ea4.png",
+        "fileSize": 890609
       }
     ],
     "features": [
@@ -130,7 +133,7 @@
     "releaseDate": "2026-11-02",
     "updatedDate": "Nov 2, 2026",
     "createdAt": "2026-11-02",
-    "updatedAt": "2026-11-02T07:52:23.904Z",
+    "updatedAt": "2026-11-02T08:48:20.282Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -195,7 +198,9 @@
     ],
     "webUrl": "",
     "externalStoreUrl": "",
-    "screenshotAssetIds": []
+    "screenshotAssetIds": [
+      "asset-screenshot-1793609277813-mbfr67"
+    ]
   },
   {
     "id": "app-apk-mudh5e9q",
