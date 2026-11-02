@@ -1,6 +1,6 @@
 [
   {
-    "id": "app-1793612024871",
+    "id": "app-1",
     "slug": "hackedapp",
     "name": "HackedApp",
     "tagline": "Android Application",
@@ -80,8 +80,8 @@
     "packageType": "apk",
     "releaseDate": "Nov 2, 2026",
     "updatedDate": "Nov 2, 2026",
-    "createdAt": "2026-11-02T09:33:44.871Z",
-    "updatedAt": "2026-11-02T09:33:44.871Z",
+    "createdAt": "2026-11-02T09:33:51.816Z",
+    "updatedAt": "2026-11-02T09:33:51.816Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
