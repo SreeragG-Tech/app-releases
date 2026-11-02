@@ -8,10 +8,10 @@
     "description": "# Gopac Player\n\nExperience your videos with Gopac Player, a premium offline Android video player designed for smooth playback, high-quality visuals, and a clean cinematic experience.\n\n### 🎬 Powerful Video Playback\nEnjoy your local video collection with support for popular media formats, including MP4, MKV, and high-efficiency HEVC (H.265) video, with broad audio codec compatibility through its media playback engine.\n\n### ⚡ Advanced Playback Controls\n- Double-tap to skip forward or backward by 10 seconds.\n- Hold to temporarily play at 2× speed.\n- Adjustable playback speed.\n- Smooth and precise timeline seeking.\n- Resume videos from where you left off.\n- Fullscreen landscape playback.\n\n### 🎧 Immersive Media Experience\n- Audio track selection.\n- Subtitle support and synchronization.\n- Multiple video and audio format support.\n- Hardware-accelerated decoding where supported.\n- Software decoding fallback where available.\n\n### 📂 Smart Video Library\n- Automatically discover videos stored on your device.\n- Cinematic featured video carousel.\n- Recently played and continue watching sections.\n- Smart video categories.\n- Favorites and organized browsing.\n- Video thumbnails, duration, and file information.\n\n### 🖤 Premium AMOLED Design\nEnjoy a distraction-free interface featuring a deep black theme, elegant red accents, modern layouts, and smooth animations.\n\n### 🔒 Offline & Private\nYour videos are played directly from your device. No account is required to browse your local video collection.\n\n**Gopac Player. Every Frame Matters.**\n\n*Playback performance and codec compatibility depend on your device hardware, Android version, and media format.*",
     "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1793604305633-6dmjkh.png",
     "iconColor": "#f43f5e",
-    "iconBgGradient": "linear-gradient(135deg, #09090b 0%, #f43f5e22 50%, #f43f5e44 100%)",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #f43f5e 100%)",
     "accentColor": "#f43f5e",
-    "category": "productivity",
-    "categoryName": "Productivity",
+    "category": "media",
+    "categoryName": "Audio & Media",
     "tags": [
       "Android",
       "Video Player",
@@ -26,7 +26,9 @@
     ],
     "technologies": [
       "Android SDK",
-      "arm64-v8a, armeabi-v7a, x86_64",
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64",
       "Kotlin"
     ],
     "version": "1.0.0",
@@ -48,13 +50,20 @@
     ],
     "developer": {
       "name": "Sreerag G",
-      "handle": "@sreerag_g",
+      "handle": "@sreeragg",
       "avatar": "asset-screenshot-1790132924586-wrk59s?v=4",
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
     "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1793605275177-z7enzg.png",
-    "screenshots": [],
+    "screenshots": [
+      {
+        "id": "sc-1",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "caption": "Main Application Interface",
+        "orientation": "portrait"
+      }
+    ],
     "features": [
       "High-quality offline video playback.",
       "MKV, MP4 and HEVC format support.",
@@ -119,10 +128,10 @@
     "releaseNotes": "# Gopac Player v1.0.0\n\nInitial public release of Gopac Player.\n\n### Highlights\n- Offline Android video playback powered by media_kit.\n- Support for popular video formats, including MKV and MP4.\n- HEVC/H.265 playback support where compatible.\n- Advanced playback speed and seeking controls.\n- Subtitle and audio track selection.\n- Smart library with recently played videos and favorites.\n- AMOLED black interface with cinematic red accents.\n\n### Compatibility\nCodec support and playback performance depend on device hardware and software decoding capabilities.\n\n### Platform\nAndroid.",
     "packageType": "apk",
     "releaseDate": "2026-11-02",
-    "updatedDate": "2026-11-02",
+    "updatedDate": "Nov 2, 2026",
     "createdAt": "2026-11-02",
-    "updatedAt": "2026-11-02",
-    "featured": false,
+    "updatedAt": "2026-11-02T07:52:23.904Z",
+    "featured": true,
     "newRelease": true,
     "isNewRelease": true,
     "published": true,
@@ -139,7 +148,54 @@
     "githubRepoUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/gopac-player-v1.0.0",
     "isWebProject": false,
     "primaryDownloadAction": "apkUrl",
-    "license": "Apache 2.0 / MIT"
+    "license": "Apache 2.0 / MIT",
+    "isPublished": true,
+    "trailerVideoUrl": "",
+    "featuresList": [
+      {
+        "title": "High-quality offline video playback.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "MKV, MP4 and HEVC format support.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Advanced audio codec compatibility.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Double-tap 10-second seeking.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Hold-to-play 2× speed control.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Smooth playback timeline.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Subtitle and audio track selection.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Smart video library and categories.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Continue watching and playback history.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Premium AMOLED dark interface.",
+        "description": "Core functionality included in package."
+      }
+    ],
+    "webUrl": "",
+    "externalStoreUrl": "",
+    "screenshotAssetIds": []
   },
   {
     "id": "app-apk-mudh5e9q",
