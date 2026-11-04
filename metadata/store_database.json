@@ -43,8 +43,8 @@
       "armeabi-v7a",
       "x86_64"
     ],
-    "downloads": 3,
-    "downloadsFormatted": "3",
+    "downloads": 2,
+    "downloadsFormatted": "2",
     "platform": [
       "android"
     ],
@@ -59,12 +59,21 @@
     "screenshots": [
       {
         "id": "sc-1",
-        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793609277813-mbfr67.png",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793757355605-fvwo68.jpg",
         "caption": "Main Application Interface",
+        "orientation": "landscape",
+        "assetId": "asset-screenshot-1793757355605-fvwo68",
+        "fileName": "black-panther-the-panther-rises-da-2880x1800.jpg",
+        "fileSize": 1377837
+      },
+      {
+        "id": "sc-1793757363807-0-1fh8cg",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793757363813-lj0y6k.png",
+        "caption": "image",
         "orientation": "portrait",
-        "assetId": "asset-screenshot-1793609277813-mbfr67",
-        "fileName": "bc38c70b-93d7-424c-9ed3-9ef7e2159ea4.png",
-        "fileSize": 890609
+        "assetId": "asset-screenshot-1793757363813-lj0y6k",
+        "fileName": "image.png",
+        "fileSize": 1155689
       }
     ],
     "features": [
@@ -131,9 +140,9 @@
     "releaseNotes": "# Gopac Player v1.0.0\n\nInitial public release of Gopac Player.\n\n### Highlights\n- Offline Android video playback powered by media_kit.\n- Support for popular video formats, including MKV and MP4.\n- HEVC/H.265 playback support where compatible.\n- Advanced playback speed and seeking controls.\n- Subtitle and audio track selection.\n- Smart library with recently played videos and favorites.\n- AMOLED black interface with cinematic red accents.\n\n### Compatibility\nCodec support and playback performance depend on device hardware and software decoding capabilities.\n\n### Platform\nAndroid.",
     "packageType": "apk",
     "releaseDate": "2026-11-02",
-    "updatedDate": "Nov 2, 2026",
+    "updatedDate": "Nov 4, 2026",
     "createdAt": "2026-11-02",
-    "updatedAt": "2026-11-02T08:48:20.282Z",
+    "updatedAt": "2026-11-04T01:56:27.339Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -199,7 +208,8 @@
     "webUrl": "",
     "externalStoreUrl": "",
     "screenshotAssetIds": [
-      "asset-screenshot-1793609277813-mbfr67"
+      "asset-screenshot-1793757355605-fvwo68",
+      "asset-screenshot-1793757363813-lj0y6k"
     ]
   },
   {
