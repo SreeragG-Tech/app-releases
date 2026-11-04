@@ -51,29 +51,38 @@
     "developer": {
       "name": "Sreerag G",
       "handle": "@sreeragg",
-      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
+      "avatar": "asset-screenshot-1790132924586-wrk59s?v=4",
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
     "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1793605275177-z7enzg.png",
     "screenshots": [
       {
-        "id": "sc-1",
-        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793757355605-fvwo68.jpg",
-        "caption": "Main Application Interface",
-        "orientation": "landscape",
-        "assetId": "asset-screenshot-1793757355605-fvwo68",
-        "fileName": "black-panther-the-panther-rises-da-2880x1800.jpg",
-        "fileSize": 1377837
+        "id": "sc-1793758447716-0-bcs9nv",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793758447723-gwnn1p.png",
+        "caption": "Home Screen",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793758447723-gwnn1p",
+        "fileName": "1.png",
+        "fileSize": 1619974
       },
       {
-        "id": "sc-1793757363807-0-1fh8cg",
-        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793757363813-lj0y6k.png",
-        "caption": "image",
+        "id": "sc-1793758457455-0-tf3u5p",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793758457471-6ssuuh.png",
+        "caption": "Folders Screen",
         "orientation": "portrait",
-        "assetId": "asset-screenshot-1793757363813-lj0y6k",
-        "fileName": "image.png",
-        "fileSize": 1155689
+        "assetId": "asset-screenshot-1793758457471-6ssuuh",
+        "fileName": "2.png",
+        "fileSize": 1155088
+      },
+      {
+        "id": "sc-1793758472690-0-3gh9zy",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793758472703-yvpjhj.png",
+        "caption": "Favorites Screen",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793758472703-yvpjhj",
+        "fileName": "3.png",
+        "fileSize": 1349042
       }
     ],
     "features": [
@@ -142,7 +151,7 @@
     "releaseDate": "2026-11-02",
     "updatedDate": "Nov 4, 2026",
     "createdAt": "2026-11-02",
-    "updatedAt": "2026-11-04T01:56:27.339Z",
+    "updatedAt": "2026-11-04T02:15:03.313Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -208,8 +217,9 @@
     "webUrl": "",
     "externalStoreUrl": "",
     "screenshotAssetIds": [
-      "asset-screenshot-1793757355605-fvwo68",
-      "asset-screenshot-1793757363813-lj0y6k"
+      "asset-screenshot-1793758447723-gwnn1p",
+      "asset-screenshot-1793758457471-6ssuuh",
+      "asset-screenshot-1793758472703-yvpjhj"
     ]
   },
   {
