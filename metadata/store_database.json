@@ -32,8 +32,8 @@
       "arm64-v8a",
       "x86_64"
     ],
-    "downloads": 0,
-    "downloadsFormatted": "0",
+    "downloads": 1,
+    "downloadsFormatted": "1",
     "platform": [
       "android"
     ],
@@ -101,7 +101,8 @@
     "githubRepoUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/kootubhaakki-vila-release-v1.0",
     "isWebProject": false,
     "primaryDownloadAction": "apkUrl",
-    "license": "Apache 2.0 / MIT"
+    "license": "Apache 2.0 / MIT",
+    "isPublished": true
   },
   {
     "id": "app-apk-mvyyiugs",
