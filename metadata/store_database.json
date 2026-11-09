@@ -67,13 +67,13 @@
       "AMOLED-inspired dark interface",
       "Persistent brush configuration and preferences"
     ],
-    "whatsNew": "Version 1.0 initial launch release.",
+    "whatsNew": "Introducing UmaPaint v1.0.0!\n\n- Explore expressive Classic and Power Brush collections.\n- Create artwork with animated elemental brush effects.\n- Customize brush sizes, colors and drawing parameters.\n- Organize artwork using layers.\n- Enjoy a polished AMOLED dark interface.\n- Revisit your drawing process with stroke replay.\n- Save and export your creative work.\n\nCreate freely. Draw Beyond Reality.",
     "changelog": [
       {
         "version": "1.0",
         "date": "2026-11-09",
         "notes": [
-          "Initial release."
+          "Introducing UmaPaint v1.0.0!\n\n- Explore expressive Classic and Power Brush collections.\n- Create artwork with animated elemental brush effects.\n- Customize brush sizes, colors and drawing parameters.\n- Organize artwork using layers.\n- Enjoy a polished AMOLED dark interface.\n- Revisit your drawing process with stroke replay.\n- Save and export your creative work.\n\nCreate freely. Draw Beyond Reality."
         ]
       }
     ],
@@ -93,12 +93,12 @@
     },
     "downloadUrl": "/downloads/umapaint-latest.apk",
     "apkUrl": "/downloads/umapaint-latest.apk",
-    "releaseNotes": "",
+    "releaseNotes": "# UmaPaint v1.0.0\n\nThe first public release of UmaPaint, a digital painting studio for Android.\n\n### Highlights\n\n- Classic and specialized Power Brush collections.\n- Animated procedural brush effects.\n- Customizable brush settings and color controls.\n- Layer-based drawing workspace.\n- Undo and redo functionality.\n- Stroke replay and artwork export.\n- AMOLED-inspired dark interface.\n- Persistent user preferences.\n\n### Platform\n\n- Android application\n- Package name and SDK requirements: automatically detected from the uploaded APK.\n\n### Release\n\nInitial public release of UmaPaint.",
     "packageType": "apk",
     "releaseDate": "2026-11-09",
     "updatedDate": "Nov 9, 2026",
     "createdAt": "2026-11-09",
-    "updatedAt": "2026-11-09T15:32:39.074Z",
+    "updatedAt": "2026-11-09T15:33:41.347Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -119,8 +119,8 @@
     "screenshotAssetIds": [],
     "highlights": [],
     "searchKeywords": [],
-    "draftLastSaved": "09:02 PM",
-    "stagedPublishStage": 3,
+    "draftLastSaved": "09:03 PM",
+    "stagedPublishStage": 4,
     "iconAssetId": "asset-icon-1794238239133-66549o",
     "bannerAssetId": "asset-banner-1794238340476-tdvsog",
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794238340476-tdvsog.png"
