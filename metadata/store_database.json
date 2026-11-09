@@ -1,20 +1,29 @@
 [
   {
     "id": "app-draft-mw9ew3kf",
-    "slug": "umapaint-1",
+    "slug": "umapaint",
     "name": "UmaPaint",
-    "tagline": "High performance Android software",
-    "shortDescription": "",
-    "description": "",
+    "tagline": "Draw Beyond Reality",
+    "shortDescription": "A creative painting studio with expressive brushes, layered artwork, custom colors and smooth touch drawing.",
+    "description": "UmaPaint is a creative digital painting studio designed to turn your ideas into expressive artwork. Explore distinctive brush effects, experiment with colors, and create artwork on a beautifully minimal AMOLED dark canvas.\n\n### 🎨 Expressive Brush Collection\nDiscover a growing collection of artistic and special-effect brushes. From traditional drawing to animated elemental effects, each brush offers a unique creative experience.\n\n### ✨ Power Brushes\nExplore specialized brush collections inspired by natural forces and visual effects:\n\n- **Firebending:** Flames, explosive energy, fire propulsion and lightning effects.\n- **Water Power:** Fluid-inspired strokes and water effects.\n- **Nature Control:** Vines, leaves and organic growth effects.\n- **Earth Control:** Rock formations and earth-inspired effects.\n- **Wind Control:** Directional wind and flowing air effects.\n\n### 🎛️ Creative Brush Customization\nAdjust brush size, colors, opacity, flow and available brush-specific settings. Experiment with different color combinations and visual styles.\n\n### 🌈 Color Studio\nExplore an interactive color picker, multiple color slots, custom color selection and different color modes to create distinctive palettes.\n\n### 🗂️ Layer-Based Drawing\nOrganize your artwork using separate layers. Manage layer visibility, opacity and ordering to build more complex compositions.\n\n### 🖌️ Smooth Drawing Experience\nEnjoy a distraction-free canvas, responsive touch interactions, undo and redo controls, and an immersive dark interface designed for comfortable creative work.\n\n### 🎬 Artwork Replay and Export\nRevisit your drawing process with stroke replay and export your creations using the available image and video export options.\n\n### 🌑 Designed for Creativity\nUmaPaint features a clean AMOLED-inspired interface that keeps the focus on your artwork, colors and brush effects.\n\n**Create freely. Experiment boldly. Draw Beyond Reality.**",
     "icon": "Sparkles",
     "iconColor": "#06b6d4",
     "iconBgGradient": "linear-gradient(135deg, #083344 0%, #0e7490 50%, #06b6d4 100%)",
     "accentColor": "#06b6d4",
-    "category": "productivity",
-    "categoryName": "Productivity",
+    "category": "creativity",
+    "categoryName": "Creativity & Design",
     "tags": [
       "Android",
-      "Mobile"
+      "Digital Art",
+      "Drawing",
+      "Painting",
+      "Art Studio",
+      "Creative Tools",
+      "Brush Effects",
+      "Digital Painting",
+      "Layer Editing",
+      "Color Picker",
+      "Android Art"
     ],
     "technologies": [
       "Android SDK",
@@ -47,8 +56,16 @@
     "bannerArtwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
     "screenshots": [],
     "features": [
-      "Native Android application",
-      "Optimized for AMOLED displays"
+      "Expressive classic and elemental brush collections",
+      "GPU-powered animated brush effects",
+      "Customizable brush size, colors and visual parameters",
+      "Interactive color picker with multiple color modes",
+      "Layer-based artwork organization",
+      "Smooth touch drawing with undo and redo",
+      "Stroke replay and drawing history",
+      "Image and video export options",
+      "AMOLED-inspired dark interface",
+      "Persistent brush configuration and preferences"
     ],
     "whatsNew": "Version 1.0 initial launch release.",
     "changelog": [
@@ -76,12 +93,12 @@
     },
     "downloadUrl": "/downloads/umapaint-latest.apk",
     "apkUrl": "/downloads/umapaint-latest.apk",
-    "releaseNotes": "Version 1.0 initial launch release.",
+    "releaseNotes": "",
     "packageType": "apk",
     "releaseDate": "2026-11-09",
-    "updatedDate": "2026-11-09",
+    "updatedDate": "Nov 9, 2026",
     "createdAt": "2026-11-09",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-09T15:29:25.571Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -98,7 +115,12 @@
     "isWebProject": false,
     "primaryDownloadAction": "downloadUrl",
     "license": "Apache 2.0 / MIT",
-    "isPublished": false
+    "isPublished": false,
+    "screenshotAssetIds": [],
+    "highlights": [],
+    "searchKeywords": [],
+    "draftLastSaved": "08:59 PM",
+    "stagedPublishStage": 2
   },
   {
     "id": "app-draft-mw9e528z",
