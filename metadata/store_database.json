@@ -330,5 +330,160 @@
       "asset-screenshot-1793758457471-6ssuuh",
       "asset-screenshot-1793758472703-yvpjhj"
     ]
+  },
+  {
+    "id": "app-apk-mw3467af",
+    "slug": "kootu-bhaaki",
+    "name": "Kootu Bhaaki",
+    "tagline": "Smart Shop Calculations. Accurate Pricing. Better Business.",
+    "shortDescription": "Fast shop calculator for bills, change, weight pricing and recipe costing. Works completely offline.",
+    "description": "# Kootu Bhaaki\n### Your Everyday Shop Calculator and Recipe Costing Companion\n\nKootu Bhaaki is an all-in-one retail calculation and food business costing application designed for shopkeepers, coolbar owners, bakeries, tea stalls and small businesses.\n\nCombining four practical calculators with a dedicated recipe costing system, it helps simplify daily counter calculations, manage ingredient costs and make informed selling price decisions.\n\n**FOUR ESSENTIAL CALCULATORS**\n\n**1. കൂട്ടു (Kootu) | Running Bill Calculator**\n\nManage multiple item amounts with a simple running total.\n\n- Add amounts sequentially.\n- Edit or remove individual entries.\n- Calculate the final bill instantly.\n- Copy calculation results.\n\n**2. ബാക്കി (Bhaaki) | Change Calculator**\n\nCalculate the exact change to return to customers.\n\n- Enter the bill amount and received cash.\n- Use quick cash denomination buttons.\n- View the change amount instantly.\n\n**3. ഭാരം (Bhaaram) | Weight & Price Calculator**\n\nCalculate product prices based on weight, or determine the quantity for a given amount.\n\n- Convert weight into price.\n- Convert payment amount into weight.\n- Use quick weight presets.\n- Choose exact, round down, nearest or round up calculations.\n\n**4. വില (Vila) | Recipe Cost & Profit Calculator**\n\nA dedicated costing system for coolbars, bakeries, tea stalls and food businesses.\n\n- **Ingredient Costing:** Calculate ingredient costs using grams, kilograms, millilitres, litres and supported quantity units.\n- **Inventory Management:** Record ingredients, purchase quantities, purchase prices, suppliers and usable yields.\n- **Recipe Builder:** Create recipes by combining ingredients and quantities.\n- **Production Expenses:** Account for electricity, LPG gas, packaging, labour and overheads.\n- **Equipment Registry:** Configure equipment power ratings and operating times.\n- **Market-Aware Pricing:** Set local minimum, typical and maximum market prices to evaluate selling price recommendations.\n- **Batch Calculator:** Calculate production costs for 1, 5, 10, 20 or custom servings.\n- **Profit Analysis:** Compare product profitability, profit margins and loss-making products.\n- **Price Change Simulation:** Understand how ingredient price increases affect production costs and margins.\n- **Historical Reports:** Review previously saved calculation records.\n\n**BUILT FOR OFFLINE USE**\n\nKootu Bhaaki works without an internet connection.\n\n- No account or registration required.\n- No internet permission requested.\n- Local SQLite database for costing records.\n- Customizable Light, Dark and AMOLED themes.\n- Multiple accent colours and text sizes.\n- Haptic feedback and sound customization.\n- JSON backup and restore using clipboard export and import.\n\n**DESIGNED FOR EVERYDAY SHOP OPERATIONS**\n\nWhether you are calculating a customer's bill, returning change, checking weight-based prices or determining the production cost of a juice or bakery product, Kootu Bhaaki brings these tools together in one application.\n\n**Kootu Bhaaki. Calculate accurately. Price intelligently.**",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1793856973522-0ga7qw.png",
+    "iconColor": "#a855f7",
+    "iconBgGradient": "linear-gradient(135deg, #09090b 0%, #a855f722 50%, #a855f744 100%)",
+    "accentColor": "#a855f7",
+    "category": "productivity",
+    "categoryName": "Productivity",
+    "tags": [
+      "Android",
+      "Kootu Bhaaki",
+      "Shop Calculator Kerala",
+      "Retail Calculator",
+      "Recipe Cost Calculator",
+      "Coolbar Costing",
+      "Bakery Profit Calculator",
+      "Weight to Price Calculator",
+      "Change Calculator India",
+      "Food Cost Calculator",
+      "Tea Shop Calculator",
+      "Offline Shop Calculator",
+      "Profit Margin Calculator"
+    ],
+    "technologies": [
+      "Android SDK",
+      "arm64-v8a, x86_64",
+      "Kotlin"
+    ],
+    "version": "1.0",
+    "versionCode": "1",
+    "apkSize": "1.5 MB",
+    "size": "1.5 MB",
+    "packageName": "com.kootubhaaki.app",
+    "minSdk": "Android 24+",
+    "targetSdk": "API 34",
+    "architectures": [
+      "arm64-v8a",
+      "x86_64"
+    ],
+    "downloads": 0,
+    "downloadsFormatted": "0",
+    "platform": [
+      "android"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@sreerag_g",
+      "avatar": "asset-screenshot-1790132924586-wrk59s?v=4",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1793857001108-rji67s.png",
+    "screenshots": [
+      {
+        "id": "sc-apk-1793856987499-0-x08n",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793856987503-djer62.jpg",
+        "caption": "Home",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793856987503-djer62"
+      },
+      {
+        "id": "sc-apk-1793856991698-0-hl9i",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793856991701-lptan3.jpg",
+        "caption": "Kootu",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793856991701-lptan3"
+      },
+      {
+        "id": "sc-apk-1793856993675-0-3ox6",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793856993680-jzdrff.jpg",
+        "caption": "Bhaaki",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793856993680-jzdrff"
+      },
+      {
+        "id": "sc-apk-1793856995796-0-69hg",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1793856995802-1urr50.jpg",
+        "caption": "Price",
+        "orientation": "portrait",
+        "assetId": "asset-screenshot-1793856995802-1urr50"
+      }
+    ],
+    "features": [
+      "Four practical calculators in one application.",
+      "Fast running bill and itemized total calculation.",
+      "Instant customer change calculation.",
+      "Bidirectional weight and price conversion.",
+      "Recipe costing with gram and millilitre precision.",
+      "Ingredient inventory with automatic unit pricing.",
+      "Electricity, LPG, packaging and labour costing.",
+      "Market-aware selling price recommendations.",
+      "Batch production and profit margin analysis.",
+      "Local JSON backup and restore.",
+      "Customizable AMOLED, Dark and Light themes.",
+      "Completely offline operation without an account."
+    ],
+    "whatsNew": "Initial Release | Kootu Bhaaki v1.0\n\n• Introduced four integrated calculators: Kootu, Bhaaki, Bhaaram and Vila.\n• Added running bill calculation and inline item editing.\n• Added quick-cash change calculation.\n• Introduced bidirectional weight and price conversion.\n• Added recipe building and ingredient costing.\n• Introduced inventory and supplier price management.\n• Added electricity, LPG, packaging, labour and overhead calculations.\n• Added market-aware selling price recommendations.\n• Introduced batch costing and profit analysis.\n• Added historical calculation records.\n• Added offline JSON backup and restore.\n• Introduced customizable themes, accent colours and haptic feedback.\n\nWorks offline. No account required.",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-11-05",
+        "notes": [
+          "Initial Release | Kootu Bhaaki v1.0\n\n• Introduced four integrated calculators: Kootu, Bhaaki, Bhaaram and Vila.\n• Added running bill calculation and inline item editing.\n• Added quick-cash change calculation.\n• Introduced bidirectional weight and price conversion.\n• Added recipe building and ingredient costing.\n• Introduced inventory and supplier price management.\n• Added electricity, LPG, packaging, labour and overhead calculations.\n• Added market-aware selling price recommendations.\n• Introduced batch costing and profit analysis.\n• Added historical calculation records.\n• Added offline JSON backup and restore.\n• Introduced customizable themes, accent colours and haptic feedback.\n\nWorks offline. No account required."
+        ]
+      }
+    ],
+    "permissions": [
+      {
+        "name": "DUMP",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      }
+    ],
+    "compatibility": {
+      "minAndroid": "Android 24+",
+      "architecture": [
+        "arm64-v8a",
+        "x86_64"
+      ]
+    },
+    "downloadUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/v1.0.0/KootuBhaakki-Vila-Release.apk",
+    "apkUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/v1.0.0/KootuBhaakki-Vila-Release.apk",
+    "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/v1.0.0",
+    "githubAssetUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/v1.0.0/KootuBhaakki-Vila-Release.apk",
+    "releaseNotes": "# Kootu Bhaaki v1.0.0\n\n## Initial Public Release\n\nKootu Bhaaki brings essential retail calculations and food business costing tools together in one lightweight Android application.\n\n### Core Calculators\n- Running bill calculator with editable entries.\n- Customer change calculator with quick denomination controls.\n- Weight-to-price and price-to-weight conversion.\n- Configurable weight calculation rounding.\n\n### Vila, Recipe Costing\n- Product catalogue and recipe builder.\n- Ingredient inventory with automatic unit pricing.\n- Measurement conversions and ingredient yield settings.\n- Equipment-based electricity costing.\n- LPG, packaging, labour and overhead calculations.\n- Market-aware selling price recommendations.\n- Batch costing and profit analysis.\n- Historical calculation snapshots.\n\n### Personalization\n- Light, Dark and AMOLED themes.\n- Six customizable accent colours.\n- Adjustable text sizes.\n- Configurable haptic feedback and key sounds.\n\n### Data Management\n- Local SQLite database.\n- Offline JSON backup and restore.\n- Calculation history and clipboard copying.\n\n### Technical Details\n- Native Android application.\n- Kotlin and Jetpack Compose.\n- Minimum Android version: 7.0.\n- No internet connection required.\n- No application permissions requested.\n\n**Kootu Bhaaki v1.0.0, designed for everyday shop calculations.**",
+    "packageType": "apk",
+    "releaseDate": "2026-11-05",
+    "updatedDate": "2026-11-05",
+    "createdAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "featured": false,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": true,
+    "status": "published",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [],
+    "buildNumber": "1",
+    "platforms": [
+      "android"
+    ],
+    "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1793857001108-rji67s.png",
+    "artwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1793857001108-rji67s.png",
+    "githubRepoUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/v1.0.0",
+    "isWebProject": false,
+    "primaryDownloadAction": "apkUrl",
+    "license": "Apache 2.0 / MIT",
+    "isPublished": true
   }
 ]
