@@ -1,5 +1,106 @@
 [
   {
+    "id": "app-draft-mw9ew3kf",
+    "slug": "umapaint-1",
+    "name": "UmaPaint",
+    "tagline": "High performance Android software",
+    "shortDescription": "",
+    "description": "",
+    "icon": "Sparkles",
+    "iconColor": "#06b6d4",
+    "iconBgGradient": "linear-gradient(135deg, #083344 0%, #0e7490 50%, #06b6d4 100%)",
+    "accentColor": "#06b6d4",
+    "category": "productivity",
+    "categoryName": "Productivity",
+    "tags": [
+      "Android",
+      "Mobile"
+    ],
+    "technologies": [
+      "Android SDK",
+      "arm64-v8a, x86_64",
+      "Kotlin"
+    ],
+    "version": "1.0",
+    "versionCode": "1",
+    "apkSize": "2.5 MB",
+    "size": "2.5 MB",
+    "packageName": "com.silkpaint",
+    "minSdk": "Android 26+",
+    "targetSdk": "API 34",
+    "architectures": [
+      "arm64-v8a",
+      "x86_64"
+    ],
+    "downloads": 0,
+    "downloadsFormatted": "0",
+    "platform": [
+      "android"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@sreerag_g",
+      "avatar": "asset-screenshot-1790132924586-wrk59s?v=4",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "screenshots": [],
+    "features": [
+      "Native Android application",
+      "Optimized for AMOLED displays"
+    ],
+    "whatsNew": "Version 1.0 initial launch release.",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-11-09",
+        "notes": [
+          "Initial release."
+        ]
+      }
+    ],
+    "permissions": [
+      {
+        "name": "DUMP",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      }
+    ],
+    "compatibility": {
+      "minAndroid": "Android 26+",
+      "architecture": [
+        "arm64-v8a",
+        "x86_64"
+      ]
+    },
+    "downloadUrl": "/downloads/umapaint-latest.apk",
+    "apkUrl": "/downloads/umapaint-latest.apk",
+    "releaseNotes": "Version 1.0 initial launch release.",
+    "packageType": "apk",
+    "releaseDate": "2026-11-09",
+    "updatedDate": "2026-11-09",
+    "createdAt": "2026-11-09",
+    "updatedAt": "2026-11-09",
+    "featured": false,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": false,
+    "status": "draft",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [],
+    "buildNumber": "1",
+    "platforms": [
+      "android"
+    ],
+    "artwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "isWebProject": false,
+    "primaryDownloadAction": "downloadUrl",
+    "license": "Apache 2.0 / MIT",
+    "isPublished": false
+  },
+  {
     "id": "app-draft-mw9e528z",
     "slug": "voxora",
     "name": "Voxora",
