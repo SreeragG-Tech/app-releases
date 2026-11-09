@@ -70,13 +70,13 @@
       "Built-in Timer & Stopwatch Use a convenient countdown timer and a precision stopwatch with lap and split-time tracking.",
       "Pure AMOLED Dark Experience A refined pure-black interface with neon accents, designed for focused interaction and comfortable nighttime viewing."
     ],
-    "whatsNew": "Version 1.0.0 initial launch release.",
+    "whatsNew": "Introducing Smart Mission Alarm v1.0.0.\n\n• 9 interactive wake-up missions to challenge your mornings.\n• Smart alarm controls with single-use snooze and mission-solving mode.\n• Rubik's Cube and QR/barcode scanning missions.\n• Custom alarm tones, volume controls and vibration.\n• Wake-up history, daily streaks and progress tracking.\n• Built-in countdown timer and lap stopwatch.\n• A refined AMOLED black interface.\n\nYour mornings are about to get more challenging.",
     "changelog": [
       {
         "version": "1.0.0",
         "date": "2026-11-09",
         "notes": [
-          "Initial release."
+          "Introducing Smart Mission Alarm v1.0.0.\n\n• 9 interactive wake-up missions to challenge your mornings.\n• Smart alarm controls with single-use snooze and mission-solving mode.\n• Rubik's Cube and QR/barcode scanning missions.\n• Custom alarm tones, volume controls and vibration.\n• Wake-up history, daily streaks and progress tracking.\n• Built-in countdown timer and lap stopwatch.\n• A refined AMOLED black interface.\n\nYour mornings are about to get more challenging."
         ]
       }
     ],
@@ -188,12 +188,12 @@
     },
     "downloadUrl": "/downloads/smart-mission-alarm-latest.apk",
     "apkUrl": "/downloads/smart-mission-alarm-latest.apk",
-    "releaseNotes": "",
+    "releaseNotes": "# Smart Mission Alarm v1.0.0\n\n**The first public release.**\n\nSmart Mission Alarm introduces a mission-based alarm experience designed to make waking up more interactive and engaging.\n\n## Features\n\n### Wake-up Missions\n- Rubik's Cube Scanner with Virtual Cube support.\n- QR and Barcode Scanner.\n- Circuit Breaker puzzle.\n- Escape the Loop maze.\n- Color Reflex challenge.\n- Memory Game.\n- Number Grid Escape.\n- Pattern Detective.\n- Wake-up Reason passphrase challenge.\n- Standard Alarm mode.\n\n### Alarm System\n- Flexible alarm scheduling and repeat options.\n- Multiple built-in synthesized alarm tones.\n- Custom audio selection.\n- Adjustable volume and gradual volume increase.\n- Vibration support.\n- Single-use snooze.\n- Configurable mission-solving window.\n- Alarm test functionality.\n\n### Additional Features\n- Wake-up History and streak tracking.\n- Monthly activity calendar.\n- Countdown Timer.\n- Stopwatch with lap tracking.\n- AMOLED dark interface.\n\n### Technical Information\n- Package: `com.smartmission.alarm`\n- Version: `1.0.0`\n- Version Code: `1`\n- Minimum Android: 8.0 (API 26)\n- Target SDK: 34\n- Architecture: Kotlin and Jetpack Compose\n\n### Privacy\nCore alarm, puzzle and local data functionality operates on-device. Voice recognition depends on the device's configured Android speech recognition service.\n\n**Thank you for trying Smart Mission Alarm.**",
     "packageType": "apk",
     "releaseDate": "2026-11-09",
     "updatedDate": "Nov 9, 2026",
     "createdAt": "2026-11-09",
-    "updatedAt": "2026-11-09T15:45:52.664Z",
+    "updatedAt": "2026-11-09T15:46:37.776Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -214,8 +214,8 @@
     "screenshotAssetIds": [],
     "highlights": [],
     "searchKeywords": [],
-    "draftLastSaved": "09:15 PM",
-    "stagedPublishStage": 3,
+    "draftLastSaved": "09:16 PM",
+    "stagedPublishStage": 4,
     "iconAssetId": "asset-icon-1794239116849-2trbat",
     "bannerAssetId": "asset-banner-1794239134676-n6cf7s",
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794239134676-n6cf7s.png"
