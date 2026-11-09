@@ -6,10 +6,10 @@
     "tagline": "Your Voice. Your Models. Completely Offline.",
     "shortDescription": "Create and test custom Malayalam neural voices offline with Piper ONNX models, directly on your Android device.",
     "description": "# Voxora\n### Your Personal Offline Neural Voice Studio\n\nDiscover a simpler way to test and experience custom neural voices.\n\nVoxora is a privacy-focused Android application that brings custom Piper-compatible Text-to-Speech models directly to your device. Import your own voice models, enter Malayalam text, generate speech, and listen instantly, without depending on cloud services.\n\n### ✦ What Makes Voxora Special?\n\n**Custom Voice Models**\nImport your own Piper ONNX voice models and matching configuration files directly from device storage.\n\n**Malayalam Speech Generation**\nGenerate speech from Malayalam text using locally integrated eSpeak-NG phonemization and neural inference.\n\n**Personalized Payment Announcements**\nStart with a ready-made Malayalam payment announcement. Easily customize the sender's name and payment amount.\n\n**Natural Speech Controls**\nAdjust speaking speed to find the right pace for your voice model.\n\n**Interactive Audio Player**\nListen to generated speech with waveform visualization, playback controls, and precise audio seeking.\n\n**Multiple Voice Configurations**\nManage compatible voice models and configurations, including supported multi-speaker models.\n\n**Advanced Voice Diagnostics**\nExplore phoneme sequences, model information, inference performance, and technical details when needed.\n\n### ✦ Privacy Comes First\n\nVoxora performs speech processing directly on your Android device. No cloud speech services, external TTS APIs, or internet connection are required.\n\nYour imported models and generated audio remain within the application's local storage.\n\n### ✦ Getting Started\n\n1. Import a compatible Piper ONNX voice model.\n2. Select its matching JSON configuration.\n3. Enter your Malayalam or English text.\n4. Adjust the speech rate.\n5. Generate and listen to your speech.\n\n**Important:** Voxora does not include a pre-installed voice model. Users must provide their own compatible ONNX model and matching configuration file.\n\n### Voxora\nA focused space for your custom neural voices.",
-    "icon": "Sparkles",
-    "iconColor": "#06b6d4",
-    "iconBgGradient": "linear-gradient(135deg, #083344 0%, #0e7490 50%, #06b6d4 100%)",
-    "accentColor": "#06b6d4",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794237177002-naita8.png",
+    "iconColor": "#10b981",
+    "iconBgGradient": "linear-gradient(135deg, #09090b 0%, #10b98122 50%, #10b98144 100%)",
+    "accentColor": "#10b981",
     "category": "developer-tools",
     "categoryName": "Developer Tools",
     "tags": [
@@ -56,7 +56,7 @@
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
-    "bannerArtwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png",
     "screenshots": [],
     "features": [
       "Offline Malayalam neural speech synthesis",
@@ -104,7 +104,7 @@
     "releaseDate": "2026-11-09",
     "updatedDate": "Nov 9, 2026",
     "createdAt": "2026-11-09",
-    "updatedAt": "2026-11-09T15:11:33.795Z",
+    "updatedAt": "2026-11-09T15:14:29.103Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -117,7 +117,7 @@
     "platforms": [
       "android"
     ],
-    "artwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "artwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png",
     "isWebProject": false,
     "primaryDownloadAction": "downloadUrl",
     "license": "Apache 2.0 / MIT",
@@ -125,8 +125,11 @@
     "screenshotAssetIds": [],
     "highlights": [],
     "searchKeywords": [],
-    "draftLastSaved": "08:41 PM",
-    "stagedPublishStage": 2
+    "draftLastSaved": "08:44 PM",
+    "stagedPublishStage": 3,
+    "iconAssetId": "asset-icon-1794237177002-naita8",
+    "bannerAssetId": "asset-banner-1794237241608-mu12rj",
+    "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png"
   },
   {
     "id": "app-draft-mw5vjzrw",
