@@ -6,7 +6,7 @@
     "tagline": "Outsmart oversleeping. Complete your wake-up mission.",
     "shortDescription": "A smart alarm with 9 interactive wake-up missions, QR scanning, puzzles and a sleek AMOLED dark interface.",
     "description": "# Smart Mission Alarm\n\n**Wake up with a challenge. Complete the mission. Start your day.**\n\nTired of ordinary alarms that are too easy to dismiss? Smart Mission Alarm transforms your morning routine into an interactive challenge. Instead of simply pressing a button, complete a wake-up mission before your alarm can be dismissed.\n\nDesigned for heavy sleepers and people who want a more engaging way to wake up, it combines powerful alarm controls, interactive puzzles and a beautifully minimal AMOLED interface.\n\n## 9 Interactive Wake-Up Missions\n\nChoose the challenge that gets you out of bed:\n\n- **Rubik's Cube Scanner:** Scan real 3×3 cube faces using your camera, or use the interactive Virtual Cube.\n- **QR & Barcode Scanner:** Register a specific code and scan it to complete your mission.\n- **Circuit Breaker:** Connect electrical paths by rotating tiles to complete the circuit.\n- **Escape the Loop:** Navigate through procedurally generated mazes.\n- **Color Reflex:** Challenge your attention with colour and word recognition.\n- **Memory Game:** Memorize and reproduce increasingly challenging tile sequences.\n- **Number Grid Escape:** Solve sliding-number puzzles across multiple difficulty levels.\n- **Pattern Detective:** Identify visual patterns and complete geometric sequences.\n- **Wake-up Reason:** Speak or type a custom passphrase to complete your morning challenge.\n\nPrefer a traditional alarm? Standard Alarm mode is also available.\n\n## Smart Alarm Controls\n\n- Flexible alarm scheduling and repeat options.\n- Multiple built-in synthesized alarm tones.\n- Custom audio selection from your device.\n- Adjustable alarm volume and gradual volume increase.\n- Vibration alerts.\n- Single-use snooze.\n- Configurable mission-solving time.\n- Alarm testing before the scheduled time.\n\n## Track Your Wake-up Progress\n\nBuild consistency with the integrated Wake-up History:\n\n- Current and best wake-up streaks.\n- Average mission completion time.\n- Monthly activity calendar.\n- Records of completed wake-up missions.\n\n## More Than an Alarm\n\nSmart Mission Alarm also includes:\n\n- Countdown Timer with convenient quick-add controls.\n- Stopwatch with lap and split-time tracking.\n- Dedicated alarm preferences and reliability checks.\n\n## Designed for AMOLED Displays\n\nExperience a pure black interface with crisp typography, carefully selected neon accents and focused layouts. The interface is designed to look clean and comfortable in dark environments.\n\n## Local-First Privacy\n\nAlarm schedules, settings, mission data and wake-up history are stored locally on your device. Core alarm and puzzle functionality does not require an app internet connection. Voice recognition may depend on your Android speech recognition provider and its offline language support.\n\n**Stop dismissing alarms automatically. Start completing your mornings with Smart Mission Alarm.**",
-    "icon": "Sparkles",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794239116849-2trbat.png",
     "iconColor": "#06b6d4",
     "iconBgGradient": "linear-gradient(135deg, #083344 0%, #0e7490 50%, #06b6d4 100%)",
     "accentColor": "#06b6d4",
@@ -60,7 +60,7 @@
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
-    "bannerArtwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794239134676-n6cf7s.png",
     "screenshots": [],
     "features": [
       "9 Interactive Wake-up Missions Complete Rubik's Cube, QR scanning, memory, maze, number, pattern, colour and circuit challenges, plus custom passphrases.",
@@ -193,7 +193,7 @@
     "releaseDate": "2026-11-09",
     "updatedDate": "Nov 9, 2026",
     "createdAt": "2026-11-09",
-    "updatedAt": "2026-11-09T15:44:06.754Z",
+    "updatedAt": "2026-11-09T15:45:52.664Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -206,7 +206,7 @@
     "platforms": [
       "android"
     ],
-    "artwork": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+    "artwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794239134676-n6cf7s.png",
     "isWebProject": false,
     "primaryDownloadAction": "downloadUrl",
     "license": "Apache 2.0 / MIT",
@@ -214,8 +214,11 @@
     "screenshotAssetIds": [],
     "highlights": [],
     "searchKeywords": [],
-    "draftLastSaved": "09:13 PM",
-    "stagedPublishStage": 2
+    "draftLastSaved": "09:15 PM",
+    "stagedPublishStage": 3,
+    "iconAssetId": "asset-icon-1794239116849-2trbat",
+    "bannerAssetId": "asset-banner-1794239134676-n6cf7s",
+    "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794239134676-n6cf7s.png"
   },
   {
     "id": "app-draft-mw9ew3kf",
