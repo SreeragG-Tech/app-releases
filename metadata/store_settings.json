@@ -35,9 +35,7 @@
     },
     "recommended": {
       "title": "Recommended for You",
-      "appIds": [
-        "app-apk-mudh5e9q"
-      ],
+      "appIds": [],
       "enabled": true,
       "subtitle": "Selected applications curated for you"
     },
