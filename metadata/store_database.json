@@ -8,7 +8,7 @@
     "description": "CampusCare\n\nCollege Asset Management & Damage Reporting System\n\nCampusCare is a web-based college management platform designed to simplify campus asset monitoring and damage reporting. It provides a centralized system for students, faculty, and administrators to report damaged assets, manage records, and coordinate maintenance activities.\n\nKey Capabilities\n\nDamage Reporting: Submit reports about damaged college assets through a structured reporting system.\n\nRole-Based Access: Separate workflows for students, faculty, and administrators.\n\nAsset Management: Maintain records of college assets, categories, rooms, and related information.\n\nQR-Based Reporting: Use QR codes to make asset identification and damage reporting easier.\n\nNotifications: Telegram notifications help communicate relevant system updates.\n\nProgress Tracking: Maintain damage report records and support administrative follow-up.\n\nPWA Support: Progressive Web App functionality with offline report caching and background synchronization.\n\nMaintenance Management: Supporting workflows for dealers, workers, room assignments, and asset-related records.\n\nTechnology & Architecture\n\nCampusCare uses PHP for its backend and MariaDB for database management. Its web interface incorporates browser-based technologies and Progressive Web App functionality.\n\nPurpose\n\nThe platform aims to replace fragmented, manual asset damage reporting processes with a structured digital workflow, improving visibility, record management, and coordination within college environments.",
     "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794462691866-zifbg5.png",
     "iconColor": "#06b6d4",
-    "iconBgGradient": "linear-gradient(135deg, #09090b 0%, #18181b 50%, #06b6d433 100%)",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #06b6d4 100%)",
     "accentColor": "#06b6d4",
     "category": "education",
     "categoryName": "Education & Science",
@@ -55,15 +55,22 @@
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
-    "bannerArtwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
-    "screenshots": [],
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794463057521-0zg5b1.png",
+    "screenshots": [
+      {
+        "id": "sc-1",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "caption": "Main Application Interface",
+        "orientation": "portrait"
+      }
+    ],
     "features": [
-      "Built with PHP",
-      "Built with MySql",
-      "Built with HTML",
-      "Built with CSS",
-      "Built with JavaScript",
-      "Built with PWA"
+      "PHP",
+      "MySql",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PWA"
     ],
     "whatsNew": "Initial release of web application.",
     "changelog": [
@@ -77,7 +84,7 @@
     ],
     "permissions": [],
     "compatibility": {
-      "webStandards": "HTML5, CSS3, ES2024, WebGL",
+      "minAndroid": "10.0+",
       "architecture": [
         "Web Browser",
         "Cloud Serverless"
@@ -86,12 +93,13 @@
     "downloadUrl": "https://campuscare-1bjl.onrender.com",
     "apkUrl": "https://campuscare-1bjl.onrender.com",
     "githubReleaseUrl": "https://github.com/manipulation4136/CampusCare",
+    "githubAssetUrl": "https://campuscare-1bjl.onrender.com",
     "releaseNotes": "Initial release of web application.",
-    "packageType": "web",
+    "packageType": "pwa",
     "releaseDate": "2026-11-12",
-    "updatedDate": "2026-11-12",
+    "updatedDate": "Nov 12, 2026",
     "createdAt": "2026-11-12",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-12T05:58:05.739Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -136,7 +144,12 @@
     "isWebProject": true,
     "primaryDownloadAction": "webUrl",
     "license": "MIT License",
-    "isPublished": true
+    "isPublished": true,
+    "featuredArtwork": "",
+    "trailerVideoUrl": "",
+    "externalStoreUrl": "",
+    "bannerAssetId": "asset-banner-1794463057521-0zg5b1",
+    "screenshotAssetIds": []
   },
   {
     "id": "app-draft-mw9ew3kf",
