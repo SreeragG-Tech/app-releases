@@ -56,7 +56,17 @@
       "website": "https://github.com/SreeragG-Tech"
     },
     "bannerArtwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
-    "screenshots": [],
+    "screenshots": [
+      {
+        "id": "sc-web-1794464988277-0-05ug",
+        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1794464988281-3tx1n2.png",
+        "caption": "banner2",
+        "orientation": "landscape",
+        "fileName": "banner2.png",
+        "fileSize": 1412117,
+        "assetId": "asset-screenshot-1794464988281-3tx1n2"
+      }
+    ],
     "features": [
       "Built with HTML5",
       "Built with CSS3",
@@ -89,9 +99,9 @@
     "releaseNotes": "Initial release of web application.",
     "packageType": "web",
     "releaseDate": "2026-11-12",
-    "updatedDate": "2026-11-12",
+    "updatedDate": "Nov 12, 2026",
     "createdAt": "2026-11-12",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-12T06:31:21.109Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -136,7 +146,10 @@
     "isWebProject": true,
     "primaryDownloadAction": "webUrl",
     "license": "MIT License",
-    "isPublished": true
+    "isPublished": true,
+    "screenshotAssetIds": [
+      "asset-screenshot-1794464988281-3tx1n2"
+    ]
   },
   {
     "id": "app-draft-mw9ew3kf",
