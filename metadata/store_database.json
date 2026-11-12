@@ -8,7 +8,7 @@
     "description": "TypeFlow | Technical Typing Practice\n\nTypeFlow is a modern, developer-focused typing practice platform designed to improve typing speed, accuracy and confidence when working with programming languages and technical syntax.\n\nUnlike traditional typing applications that focus on ordinary text, TypeFlow provides structured exercises using real-world SQL queries, Python and Pandas code, JSON configurations, Bash commands, PySpark expressions and regular expressions.\n\nKey Features\n- Six structured practice levels.\n- Real-time Words Per Minute (WPM) tracking.\n- Live typing accuracy measurement.\n- Character-level error detection and feedback.\n- Personalized practice recommendations based on frequently missed keys.\n- Custom text practice with local persistence.\n- Interactive typing sounds and animations.\n- Responsive interface with keyboard shortcuts.\n\nBuilt with HTML5, Vanilla JavaScript and Tailwind CSS, TypeFlow delivers a lightweight, browser-based practice experience without requiring installation.",
     "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794464430049-7tjujq.png",
     "iconColor": "#8b5cf6",
-    "iconBgGradient": "linear-gradient(135deg, #09090b 0%, #18181b 50%, #8b5cf633 100%)",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #8b5cf6 100%)",
     "accentColor": "#8b5cf6",
     "category": "developer-tools",
     "categoryName": "Developer Tools",
@@ -55,25 +55,15 @@
       "verified": true,
       "website": "https://github.com/SreeragG-Tech"
     },
-    "bannerArtwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
-    "screenshots": [
-      {
-        "id": "sc-web-1794464988277-0-05ug",
-        "url": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1794464988281-3tx1n2.png",
-        "caption": "banner2",
-        "orientation": "landscape",
-        "fileName": "banner2.png",
-        "fileSize": 1412117,
-        "assetId": "asset-screenshot-1794464988281-3tx1n2"
-      }
-    ],
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794465157768-1f3x6u.png",
+    "screenshots": [],
     "features": [
-      "Built with HTML5",
-      "Built with CSS3",
-      "Built with JavaScript",
-      "Built with Tailwind CSS",
-      "Built with Web Audio API",
-      "Built with LocalStorage"
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Tailwind CSS",
+      "Web Audio API",
+      "LocalStorage"
     ],
     "whatsNew": "Initial release of web application.",
     "changelog": [
@@ -87,7 +77,7 @@
     ],
     "permissions": [],
     "compatibility": {
-      "webStandards": "HTML5, CSS3, ES2024, WebGL",
+      "minAndroid": "10.0+",
       "architecture": [
         "Web Browser",
         "Cloud Serverless"
@@ -96,12 +86,13 @@
     "downloadUrl": "https://typeflow-xpuc.onrender.com",
     "apkUrl": "https://typeflow-xpuc.onrender.com",
     "githubReleaseUrl": "https://github.com/SreeragG-Tech/TypeFlow",
+    "githubAssetUrl": "https://typeflow-xpuc.onrender.com",
     "releaseNotes": "Initial release of web application.",
-    "packageType": "web",
+    "packageType": "pwa",
     "releaseDate": "2026-11-12",
     "updatedDate": "Nov 12, 2026",
     "createdAt": "2026-11-12",
-    "updatedAt": "2026-11-12T06:31:21.109Z",
+    "updatedAt": "2026-11-12T06:32:45.752Z",
     "featured": true,
     "newRelease": true,
     "isNewRelease": true,
@@ -147,9 +138,11 @@
     "primaryDownloadAction": "webUrl",
     "license": "MIT License",
     "isPublished": true,
-    "screenshotAssetIds": [
-      "asset-screenshot-1794464988281-3tx1n2"
-    ]
+    "screenshotAssetIds": [],
+    "bannerAssetId": "asset-banner-1794465157768-1f3x6u",
+    "featuredArtwork": "",
+    "trailerVideoUrl": "",
+    "externalStoreUrl": ""
   },
   {
     "id": "app-draft-mw9ew3kf",
