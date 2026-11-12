@@ -1,157 +1,5 @@
 [
   {
-    "id": "web-1794462774218",
-    "slug": "campuscare",
-    "name": "CampusCare",
-    "tagline": "A college asset management and damage reporting platform that helps students, faculty, and administrators report, track, and manage campus asset issues.",
-    "shortDescription": "A college asset management and damage reporting platform that helps students, faculty, and administrators report, track, and manage campus asset issues.",
-    "description": "CampusCare\n\nCollege Asset Management & Damage Reporting System\n\nCampusCare is a web-based college management platform designed to simplify campus asset monitoring and damage reporting. It provides a centralized system for students, faculty, and administrators to report damaged assets, manage records, and coordinate maintenance activities.\n\nKey Capabilities\n\nDamage Reporting: Submit reports about damaged college assets through a structured reporting system.\n\nRole-Based Access: Separate workflows for students, faculty, and administrators.\n\nAsset Management: Maintain records of college assets, categories, rooms, and related information.\n\nQR-Based Reporting: Use QR codes to make asset identification and damage reporting easier.\n\nNotifications: Telegram notifications help communicate relevant system updates.\n\nProgress Tracking: Maintain damage report records and support administrative follow-up.\n\nPWA Support: Progressive Web App functionality with offline report caching and background synchronization.\n\nMaintenance Management: Supporting workflows for dealers, workers, room assignments, and asset-related records.\n\nTechnology & Architecture\n\nCampusCare uses PHP for its backend and MariaDB for database management. Its web interface incorporates browser-based technologies and Progressive Web App functionality.\n\nPurpose\n\nThe platform aims to replace fragmented, manual asset damage reporting processes with a structured digital workflow, improving visibility, record management, and coordination within college environments.",
-    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794462691866-zifbg5.png",
-    "iconColor": "#06b6d4",
-    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #06b6d4 100%)",
-    "accentColor": "#06b6d4",
-    "category": "education",
-    "categoryName": "Education & Science",
-    "tags": [
-      "Web App",
-      "Web",
-      "PHP",
-      "MySql",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PWA",
-      "education"
-    ],
-    "technologies": [
-      "PHP",
-      "MySql",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PWA"
-    ],
-    "version": "1.0.0",
-    "versionCode": 1,
-    "apkSize": "Web Application",
-    "size": "Web Application",
-    "packageName": "com.example.campuscare",
-    "minSdk": "Android 10.0+ (API 29)",
-    "targetSdk": "Android 14.0+ (API 34)",
-    "architectures": [
-      "arm64-v8a",
-      "x86_64",
-      "Universal"
-    ],
-    "downloads": 0,
-    "downloadsFormatted": "0",
-    "platform": [
-      "web"
-    ],
-    "developer": {
-      "name": "Sreerag G",
-      "handle": "@sreeragg",
-      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
-      "verified": true,
-      "website": "https://github.com/SreeragG-Tech"
-    },
-    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794463057521-0zg5b1.png",
-    "screenshots": [
-      {
-        "id": "sc-1",
-        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
-        "caption": "Main Application Interface",
-        "orientation": "portrait"
-      }
-    ],
-    "features": [
-      "PHP",
-      "MySql",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PWA"
-    ],
-    "whatsNew": "Initial release of web application.",
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2026-11-12",
-        "notes": [
-          "Web application published to store showcase."
-        ]
-      }
-    ],
-    "permissions": [],
-    "compatibility": {
-      "minAndroid": "10.0+",
-      "architecture": [
-        "Web Browser",
-        "Cloud Serverless"
-      ]
-    },
-    "downloadUrl": "https://campuscare-1bjl.onrender.com",
-    "apkUrl": "https://campuscare-1bjl.onrender.com",
-    "githubReleaseUrl": "https://github.com/manipulation4136/CampusCare",
-    "githubAssetUrl": "https://campuscare-1bjl.onrender.com",
-    "releaseNotes": "Initial release of web application.",
-    "packageType": "pwa",
-    "releaseDate": "2026-11-12",
-    "updatedDate": "Nov 12, 2026",
-    "createdAt": "2026-11-12",
-    "updatedAt": "2026-11-12T05:58:05.739Z",
-    "featured": true,
-    "newRelease": true,
-    "isNewRelease": true,
-    "published": true,
-    "status": "published",
-    "showInCategory": true,
-    "showInSearch": true,
-    "previousVersions": [],
-    "buildNumber": "100",
-    "platforms": [
-      "web"
-    ],
-    "artwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
-    "featuresList": [
-      {
-        "title": "PHP",
-        "description": "Engineered using modern PHP framework architecture."
-      },
-      {
-        "title": "MySql",
-        "description": "Engineered using modern MySql framework architecture."
-      },
-      {
-        "title": "HTML",
-        "description": "Engineered using modern HTML framework architecture."
-      },
-      {
-        "title": "CSS",
-        "description": "Engineered using modern CSS framework architecture."
-      },
-      {
-        "title": "JavaScript",
-        "description": "Engineered using modern JavaScript framework architecture."
-      },
-      {
-        "title": "PWA",
-        "description": "Engineered using modern PWA framework architecture."
-      }
-    ],
-    "webUrl": "https://campuscare-1bjl.onrender.com",
-    "githubRepoUrl": "https://github.com/manipulation4136/CampusCare",
-    "isWebProject": true,
-    "primaryDownloadAction": "webUrl",
-    "license": "MIT License",
-    "isPublished": true,
-    "featuredArtwork": "",
-    "trailerVideoUrl": "",
-    "externalStoreUrl": "",
-    "bannerAssetId": "asset-banner-1794463057521-0zg5b1",
-    "screenshotAssetIds": []
-  },
-  {
     "id": "app-draft-mw9ew3kf",
     "name": "UmaPaint",
     "slug": "umapaint",
@@ -1027,5 +875,157 @@
     "iconAssetId": "asset-icon-1794237177002-naita8",
     "bannerAssetId": "asset-banner-1794237241608-mu12rj",
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png"
+  },
+  {
+    "id": "web-1794462774218",
+    "slug": "campuscare",
+    "name": "CampusCare",
+    "tagline": "A college asset management and damage reporting platform that helps students, faculty, and administrators report, track, and manage campus asset issues.",
+    "shortDescription": "A college asset management and damage reporting platform that helps students, faculty, and administrators report, track, and manage campus asset issues.",
+    "description": "CampusCare\n\nCollege Asset Management & Damage Reporting System\n\nCampusCare is a web-based college management platform designed to simplify campus asset monitoring and damage reporting. It provides a centralized system for students, faculty, and administrators to report damaged assets, manage records, and coordinate maintenance activities.\n\nKey Capabilities\n\nDamage Reporting: Submit reports about damaged college assets through a structured reporting system.\n\nRole-Based Access: Separate workflows for students, faculty, and administrators.\n\nAsset Management: Maintain records of college assets, categories, rooms, and related information.\n\nQR-Based Reporting: Use QR codes to make asset identification and damage reporting easier.\n\nNotifications: Telegram notifications help communicate relevant system updates.\n\nProgress Tracking: Maintain damage report records and support administrative follow-up.\n\nPWA Support: Progressive Web App functionality with offline report caching and background synchronization.\n\nMaintenance Management: Supporting workflows for dealers, workers, room assignments, and asset-related records.\n\nTechnology & Architecture\n\nCampusCare uses PHP for its backend and MariaDB for database management. Its web interface incorporates browser-based technologies and Progressive Web App functionality.\n\nPurpose\n\nThe platform aims to replace fragmented, manual asset damage reporting processes with a structured digital workflow, improving visibility, record management, and coordination within college environments.",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794462691866-zifbg5.png",
+    "iconColor": "#06b6d4",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #06b6d4 100%)",
+    "accentColor": "#06b6d4",
+    "category": "education",
+    "categoryName": "Education & Science",
+    "tags": [
+      "Web App",
+      "Web",
+      "PHP",
+      "MySql",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PWA",
+      "education"
+    ],
+    "technologies": [
+      "PHP",
+      "MySql",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PWA"
+    ],
+    "version": "1.0.0",
+    "versionCode": 1,
+    "apkSize": "Web Application",
+    "size": "Web Application",
+    "packageName": "com.example.campuscare",
+    "minSdk": "Android 10.0+ (API 29)",
+    "targetSdk": "Android 14.0+ (API 34)",
+    "architectures": [
+      "arm64-v8a",
+      "x86_64",
+      "Universal"
+    ],
+    "downloads": 0,
+    "downloadsFormatted": "0",
+    "platform": [
+      "web"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@sreeragg",
+      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794463057521-0zg5b1.png",
+    "screenshots": [
+      {
+        "id": "sc-1",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "caption": "Main Application Interface",
+        "orientation": "portrait"
+      }
+    ],
+    "features": [
+      "PHP",
+      "MySql",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PWA"
+    ],
+    "whatsNew": "Initial release of web application.",
+    "changelog": [
+      {
+        "version": "1.0.0",
+        "date": "2026-11-12",
+        "notes": [
+          "Web application published to store showcase."
+        ]
+      }
+    ],
+    "permissions": [],
+    "compatibility": {
+      "minAndroid": "10.0+",
+      "architecture": [
+        "Web Browser",
+        "Cloud Serverless"
+      ]
+    },
+    "downloadUrl": "https://campuscare-1bjl.onrender.com",
+    "apkUrl": "https://campuscare-1bjl.onrender.com",
+    "githubReleaseUrl": "https://github.com/manipulation4136/CampusCare",
+    "githubAssetUrl": "https://campuscare-1bjl.onrender.com",
+    "releaseNotes": "Initial release of web application.",
+    "packageType": "pwa",
+    "releaseDate": "2026-11-12",
+    "updatedDate": "Nov 12, 2026",
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12T05:58:05.739Z",
+    "featured": true,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": true,
+    "status": "published",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [],
+    "buildNumber": "100",
+    "platforms": [
+      "web"
+    ],
+    "artwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
+    "featuresList": [
+      {
+        "title": "PHP",
+        "description": "Engineered using modern PHP framework architecture."
+      },
+      {
+        "title": "MySql",
+        "description": "Engineered using modern MySql framework architecture."
+      },
+      {
+        "title": "HTML",
+        "description": "Engineered using modern HTML framework architecture."
+      },
+      {
+        "title": "CSS",
+        "description": "Engineered using modern CSS framework architecture."
+      },
+      {
+        "title": "JavaScript",
+        "description": "Engineered using modern JavaScript framework architecture."
+      },
+      {
+        "title": "PWA",
+        "description": "Engineered using modern PWA framework architecture."
+      }
+    ],
+    "webUrl": "https://campuscare-1bjl.onrender.com",
+    "githubRepoUrl": "https://github.com/manipulation4136/CampusCare",
+    "isWebProject": true,
+    "primaryDownloadAction": "webUrl",
+    "license": "MIT License",
+    "isPublished": true,
+    "featuredArtwork": "",
+    "trailerVideoUrl": "",
+    "externalStoreUrl": "",
+    "bannerAssetId": "asset-banner-1794463057521-0zg5b1",
+    "screenshotAssetIds": []
   }
 ]
