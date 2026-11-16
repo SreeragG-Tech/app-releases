@@ -40,10 +40,9 @@
       "title": "Recommended for You",
       "appIds": [
         "app-apk-mw3467af",
-        "app-draft-mw9fed5q",
         "app-apk-mvyyiugs",
         "app-draft-mw9ew3kf",
-        "app-draft-mw9e528z"
+        "app-draft-mw9fed5q"
       ],
       "enabled": true,
       "subtitle": "Selected applications curated for you"
