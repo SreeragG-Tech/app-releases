@@ -171,8 +171,8 @@
       "armeabi-v7a",
       "x86_64"
     ],
-    "downloads": 2,
-    "downloadsFormatted": "2",
+    "downloads": 1,
+    "downloadsFormatted": "1",
     "platform": [
       "android"
     ],
@@ -277,10 +277,10 @@
     "releaseNotes": "# Gopac Player v1.0.0\n\nInitial public release of Gopac Player.\n\n### Highlights\n- Offline Android video playback powered by media_kit.\n- Support for popular video formats, including MKV and MP4.\n- HEVC/H.265 playback support where compatible.\n- Advanced playback speed and seeking controls.\n- Subtitle and audio track selection.\n- Smart library with recently played videos and favorites.\n- AMOLED black interface with cinematic red accents.\n\n### Compatibility\nCodec support and playback performance depend on device hardware and software decoding capabilities.\n\n### Platform\nAndroid.",
     "packageType": "apk",
     "releaseDate": "2026-11-02",
-    "updatedDate": "Nov 4, 2026",
+    "updatedDate": "Nov 16, 2026",
     "createdAt": "2026-11-02",
-    "updatedAt": "2026-11-04T02:15:03.313Z",
-    "featured": true,
+    "updatedAt": "2026-11-16T14:50:51.122Z",
+    "featured": false,
     "newRelease": true,
     "isNewRelease": true,
     "published": true,
