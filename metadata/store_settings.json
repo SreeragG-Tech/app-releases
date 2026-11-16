@@ -39,7 +39,9 @@
     "recommended": {
       "title": "Recommended for You",
       "appIds": [
-        "app-apk-mvyyiugs"
+        "app-apk-mw3467af",
+        "web-1794830340129",
+        "app-draft-mw9fed5q"
       ],
       "enabled": true,
       "subtitle": "Selected applications curated for you"
