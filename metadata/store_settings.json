@@ -63,7 +63,12 @@
     },
     "recentlyUpdated": {
       "title": "Recently Updated",
-      "appIds": [],
+      "appIds": [
+        "app-draft-mw9fed5q",
+        "app-draft-mw9ew3kf",
+        "web-1794462774218",
+        "app-draft-mw9e528z"
+      ],
       "enabled": true,
       "subtitle": "Latest improvements and optimizations"
     },
