@@ -47,11 +47,7 @@
     },
     "newReleases": {
       "title": "New Releases",
-      "appIds": [
-        "web-1794830340129",
-        "web-1794464496130",
-        "app-draft-mw9e528z"
-      ],
+      "appIds": [],
       "enabled": true,
       "subtitle": "Freshly compiled software and releases"
     },
