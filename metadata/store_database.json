@@ -1,155 +1,5 @@
 [
   {
-    "id": "web-1794830340129",
-    "slug": "modelforge",
-    "name": "ModelForge",
-    "tagline": "Convert .joblib/.pkl ML models and .ipynb notebooks into FastAPI APIs, Streamlit apps, web UIs, and ready-to-deploy .zip packages.",
-    "shortDescription": "Convert .joblib/.pkl ML models and .ipynb notebooks into FastAPI APIs, Streamlit apps, web UIs, and ready-to-deploy .zip packages.",
-    "description": "# ModelForge: Universal ML Web App Generator\n\nTurn trained machine-learning models and Jupyter notebooks into structured web applications, REST APIs, and deployment-ready project packages.\n\nModelForge is a browser-based development studio designed for machine-learning engineers, Python developers, and data scientists. It simplifies the process of converting trained Scikit-Learn models into usable application interfaces and backend project structures.\n\nInstead of manually creating API endpoints, input schemas, frontend forms, dependency files, and deployment configurations, ModelForge brings these tasks together in one guided workspace.\n\n## Key Features\n\n### 1. Seven-Step ML Application Studio\nConfigure your project through seven guided stages:\n\n- Model Setup\n- App Branding\n- Prediction Setup\n- Landing Page\n- Appearance\n- Input Schema\n- Preprocessing\n\nTrack configuration progress through the Project Summary and completion indicators.\n\n### 2. Machine Learning Model Inspection\nImport Scikit-Learn model files in `.joblib` and `.pkl` formats.\n\nModelForge scans supported binary structures to identify available feature information, preprocessing metadata, and Scikit-Learn version information.\n\n### 3. Jupyter Notebook Parsing\nImport `.ipynb` training notebooks and extract supported schema, preprocessing, and environment information using ModelForge's notebook magic-tag format.\n\n### 4. Environment Dependency Matching\nInspect model and notebook metadata to generate compatible dependency requirements for libraries such as:\n\n- Scikit-Learn\n- NumPy\n- Pandas\n- SciPy\n- Joblib\n\n### 5. Custom Input Schema Builder\nConfigure the fields used by your generated application.\n\nSupported field types include numeric, text, textarea, select, and boolean inputs. You can also import input definitions from JSON.\n\n### 6. Interactive Application Preview\nPreview your configured application through a multi-page interface.\n\nExplore landing pages, prediction forms, JSON input, and prediction-result layouts before exporting your project.\n\nThe preview uses a browser-based inference simulation when a compatible live backend is unavailable. Actual Scikit-Learn inference requires the exported Python backend.\n\n### 7. Automatic Code Generation\nGenerate application files for:\n\n- FastAPI REST APIs\n- Streamlit dashboards\n- Standalone HTML interfaces\n- Pydantic request and response schemas\n- Sample prediction requests\n\n### 8. Code Explorer\nInspect generated source files in a syntax-highlighted development workspace.\n\nReview Python application code, frontend files, dependency requirements, Docker configuration, and deployment scripts.\n\n### 9. Deployment Preparation\nGenerate deployment-related files and instructions for:\n\n- Docker\n- Render\n- Hugging Face Spaces\n- Self-hosted environments\n\nModelForge provides configuration files, readiness checks, and launch instructions. Deployment itself must be performed by the user.\n\n### 10. ZIP Package Export\nDownload the generated application structure, configuration files, and original model artifact in a ZIP package for further development or deployment.\n\n## Built for Developers\n\nModelForge combines React, TypeScript, Tailwind CSS, Vite, Motion, and JSZip to provide a browser-based authoring and packaging environment.\n\nIts generated Python projects use technologies including FastAPI, Streamlit, Pydantic, Scikit-Learn, Pandas, NumPy, SciPy, and Joblib.\n\n## Important Information\n\nModelForge does not execute Python or Scikit-Learn model inference directly in the browser. Real model predictions and custom Pandas preprocessing require a running Python backend.\n\nThe application generates deployment packages and instructions but does not automatically deploy projects to cloud platforms.\n\nUploaded model and notebook files are processed in browser memory by the application. Project configuration and uploaded files are not persisted across page refreshes in the current implementation.\n\n## Start Building\n\nBring your trained machine-learning models closer to real applications with ModelForge, a guided workspace for model inspection, interface configuration, code generation, and deployment preparation.",
-    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794830323304-06m4dn.png",
-    "iconColor": "#f59e0b",
-    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #f59e0b 100%)",
-    "accentColor": "#f59e0b",
-    "category": "developer-tools",
-    "categoryName": "Developer Tools",
-    "tags": [
-      "Web App",
-      "Web",
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Vite",
-      "Motion",
-      "JSZip",
-      "developer-tools"
-    ],
-    "technologies": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Vite",
-      "Motion",
-      "JSZip"
-    ],
-    "version": "1.0.0",
-    "versionCode": 1,
-    "apkSize": "Web Application",
-    "size": "Web Application",
-    "packageName": "com.example.modelforge",
-    "minSdk": "Android 10.0+ (API 29)",
-    "targetSdk": "Android 14.0+ (API 34)",
-    "architectures": [
-      "arm64-v8a",
-      "x86_64",
-      "Universal"
-    ],
-    "downloads": 0,
-    "downloadsFormatted": "0",
-    "platform": [
-      "web"
-    ],
-    "developer": {
-      "name": "Sreerag G",
-      "handle": "@sreeragg",
-      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
-      "verified": true,
-      "website": "https://github.com/SreeragG-Tech"
-    },
-    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794830743917-umeyki.png",
-    "screenshots": [
-      {
-        "id": "sc-1",
-        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
-        "caption": "Main Application Interface",
-        "orientation": "portrait"
-      }
-    ],
-    "features": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Vite",
-      "Motion",
-      "JSZip"
-    ],
-    "whatsNew": "Initial release of web application.",
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2026-11-16",
-        "notes": [
-          "Web application published to store showcase."
-        ]
-      }
-    ],
-    "permissions": [],
-    "compatibility": {
-      "minAndroid": "10.0+",
-      "architecture": [
-        "Web Browser",
-        "Cloud Serverless"
-      ]
-    },
-    "downloadUrl": "https://modelforge-sl.ai.studio",
-    "apkUrl": "https://modelforge-sl.ai.studio",
-    "githubAssetUrl": "https://modelforge-sl.ai.studio",
-    "releaseNotes": "Initial release of web application.",
-    "packageType": "pwa",
-    "releaseDate": "2026-11-16",
-    "updatedDate": "Nov 16, 2026",
-    "createdAt": "2026-11-16",
-    "updatedAt": "2026-11-16T12:05:56.881Z",
-    "featured": true,
-    "newRelease": true,
-    "isNewRelease": true,
-    "published": true,
-    "status": "published",
-    "showInCategory": true,
-    "showInSearch": true,
-    "previousVersions": [],
-    "buildNumber": "100",
-    "platforms": [
-      "web"
-    ],
-    "artwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
-    "featuresList": [
-      {
-        "title": "React",
-        "description": "Engineered using modern React framework architecture."
-      },
-      {
-        "title": "TypeScript",
-        "description": "Engineered using modern TypeScript framework architecture."
-      },
-      {
-        "title": "Tailwind CSS",
-        "description": "Engineered using modern Tailwind CSS framework architecture."
-      },
-      {
-        "title": "Vite",
-        "description": "Engineered using modern Vite framework architecture."
-      },
-      {
-        "title": "Motion",
-        "description": "Engineered using modern Motion framework architecture."
-      },
-      {
-        "title": "JSZip",
-        "description": "Engineered using modern JSZip framework architecture."
-      }
-    ],
-    "webUrl": "https://modelforge-sl.ai.studio",
-    "isWebProject": true,
-    "primaryDownloadAction": "webUrl",
-    "license": "MIT License",
-    "isPublished": true,
-    "featuredArtwork": "",
-    "trailerVideoUrl": "",
-    "externalStoreUrl": "",
-    "bannerAssetId": "asset-banner-1794830743917-umeyki",
-    "screenshotAssetIds": []
-  },
-  {
     "id": "app-draft-mw9ew3kf",
     "name": "UmaPaint",
     "slug": "umapaint",
@@ -1025,6 +875,156 @@
     "iconAssetId": "asset-icon-1794237177002-naita8",
     "bannerAssetId": "asset-banner-1794237241608-mu12rj",
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png"
+  },
+  {
+    "id": "web-1794830340129",
+    "slug": "modelforge",
+    "name": "ModelForge",
+    "tagline": "Convert .joblib/.pkl ML models and .ipynb notebooks into FastAPI APIs, Streamlit apps, web UIs, and ready-to-deploy .zip packages.",
+    "shortDescription": "Convert .joblib/.pkl ML models and .ipynb notebooks into FastAPI APIs, Streamlit apps, web UIs, and ready-to-deploy .zip packages.",
+    "description": "# ModelForge: Universal ML Web App Generator\n\nTurn trained machine-learning models and Jupyter notebooks into structured web applications, REST APIs, and deployment-ready project packages.\n\nModelForge is a browser-based development studio designed for machine-learning engineers, Python developers, and data scientists. It simplifies the process of converting trained Scikit-Learn models into usable application interfaces and backend project structures.\n\nInstead of manually creating API endpoints, input schemas, frontend forms, dependency files, and deployment configurations, ModelForge brings these tasks together in one guided workspace.\n\n## Key Features\n\n### 1. Seven-Step ML Application Studio\nConfigure your project through seven guided stages:\n\n- Model Setup\n- App Branding\n- Prediction Setup\n- Landing Page\n- Appearance\n- Input Schema\n- Preprocessing\n\nTrack configuration progress through the Project Summary and completion indicators.\n\n### 2. Machine Learning Model Inspection\nImport Scikit-Learn model files in `.joblib` and `.pkl` formats.\n\nModelForge scans supported binary structures to identify available feature information, preprocessing metadata, and Scikit-Learn version information.\n\n### 3. Jupyter Notebook Parsing\nImport `.ipynb` training notebooks and extract supported schema, preprocessing, and environment information using ModelForge's notebook magic-tag format.\n\n### 4. Environment Dependency Matching\nInspect model and notebook metadata to generate compatible dependency requirements for libraries such as:\n\n- Scikit-Learn\n- NumPy\n- Pandas\n- SciPy\n- Joblib\n\n### 5. Custom Input Schema Builder\nConfigure the fields used by your generated application.\n\nSupported field types include numeric, text, textarea, select, and boolean inputs. You can also import input definitions from JSON.\n\n### 6. Interactive Application Preview\nPreview your configured application through a multi-page interface.\n\nExplore landing pages, prediction forms, JSON input, and prediction-result layouts before exporting your project.\n\nThe preview uses a browser-based inference simulation when a compatible live backend is unavailable. Actual Scikit-Learn inference requires the exported Python backend.\n\n### 7. Automatic Code Generation\nGenerate application files for:\n\n- FastAPI REST APIs\n- Streamlit dashboards\n- Standalone HTML interfaces\n- Pydantic request and response schemas\n- Sample prediction requests\n\n### 8. Code Explorer\nInspect generated source files in a syntax-highlighted development workspace.\n\nReview Python application code, frontend files, dependency requirements, Docker configuration, and deployment scripts.\n\n### 9. Deployment Preparation\nGenerate deployment-related files and instructions for:\n\n- Docker\n- Render\n- Hugging Face Spaces\n- Self-hosted environments\n\nModelForge provides configuration files, readiness checks, and launch instructions. Deployment itself must be performed by the user.\n\n### 10. ZIP Package Export\nDownload the generated application structure, configuration files, and original model artifact in a ZIP package for further development or deployment.\n\n## Built for Developers\n\nModelForge combines React, TypeScript, Tailwind CSS, Vite, Motion, and JSZip to provide a browser-based authoring and packaging environment.\n\nIts generated Python projects use technologies including FastAPI, Streamlit, Pydantic, Scikit-Learn, Pandas, NumPy, SciPy, and Joblib.\n\n## Important Information\n\nModelForge does not execute Python or Scikit-Learn model inference directly in the browser. Real model predictions and custom Pandas preprocessing require a running Python backend.\n\nThe application generates deployment packages and instructions but does not automatically deploy projects to cloud platforms.\n\nUploaded model and notebook files are processed in browser memory by the application. Project configuration and uploaded files are not persisted across page refreshes in the current implementation.\n\n## Start Building\n\nBring your trained machine-learning models closer to real applications with ModelForge, a guided workspace for model inspection, interface configuration, code generation, and deployment preparation.",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1794830323304-06m4dn.png",
+    "iconColor": "#f59e0b",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #f59e0b 100%)",
+    "accentColor": "#f59e0b",
+    "category": "developer-tools",
+    "categoryName": "Developer Tools",
+    "tags": [
+      "Web App",
+      "Web",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vite",
+      "Motion",
+      "JSZip",
+      "developer-tools"
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vite",
+      "Motion",
+      "JSZip"
+    ],
+    "version": "1.0.0",
+    "versionCode": 1,
+    "apkSize": "Web Application",
+    "size": "Web Application",
+    "packageName": "com.example.modelforge",
+    "minSdk": "Android 10.0+ (API 29)",
+    "targetSdk": "Android 14.0+ (API 34)",
+    "architectures": [
+      "arm64-v8a",
+      "x86_64",
+      "Universal"
+    ],
+    "downloads": 0,
+    "downloadsFormatted": "0",
+    "platform": [
+      "web"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@sreeragg",
+      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794830743917-umeyki.png",
+    "screenshots": [
+      {
+        "id": "sc-1",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "caption": "Main Application Interface",
+        "orientation": "portrait"
+      }
+    ],
+    "features": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vite",
+      "Motion",
+      "JSZip"
+    ],
+    "whatsNew": "Initial release of web application.",
+    "changelog": [
+      {
+        "version": "1.0.0",
+        "date": "2026-11-16",
+        "notes": [
+          "Web application published to store showcase."
+        ]
+      }
+    ],
+    "permissions": [],
+    "compatibility": {
+      "minAndroid": "10.0+",
+      "architecture": [
+        "Web Browser",
+        "Cloud Serverless"
+      ]
+    },
+    "downloadUrl": "https://modelforge-sl.ai.studio",
+    "apkUrl": "https://modelforge-sl.ai.studio",
+    "githubAssetUrl": "https://modelforge-sl.ai.studio",
+    "releaseNotes": "Initial release of web application.",
+    "packageType": "pwa",
+    "releaseDate": "2026-11-16",
+    "updatedDate": "Nov 16, 2026",
+    "createdAt": "2026-11-16",
+    "updatedAt": "2026-11-16T12:05:56.881Z",
+    "featured": true,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": true,
+    "status": "published",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [],
+    "buildNumber": "100",
+    "platforms": [
+      "web"
+    ],
+    "artwork": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&auto=format&fit=crop&q=80",
+    "featuresList": [
+      {
+        "title": "React",
+        "description": "Engineered using modern React framework architecture."
+      },
+      {
+        "title": "TypeScript",
+        "description": "Engineered using modern TypeScript framework architecture."
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "Engineered using modern Tailwind CSS framework architecture."
+      },
+      {
+        "title": "Vite",
+        "description": "Engineered using modern Vite framework architecture."
+      },
+      {
+        "title": "Motion",
+        "description": "Engineered using modern Motion framework architecture."
+      },
+      {
+        "title": "JSZip",
+        "description": "Engineered using modern JSZip framework architecture."
+      }
+    ],
+    "webUrl": "https://modelforge-sl.ai.studio",
+    "isWebProject": true,
+    "primaryDownloadAction": "webUrl",
+    "license": "MIT License",
+    "isPublished": true,
+    "featuredArtwork": "",
+    "trailerVideoUrl": "",
+    "externalStoreUrl": "",
+    "bannerAssetId": "asset-banner-1794830743917-umeyki",
+    "screenshotAssetIds": []
   },
   {
     "id": "web-1794464496130",
