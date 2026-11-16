@@ -39,8 +39,10 @@
     },
     "recommended": {
       "title": "Recommended for You",
-      "appIds": [],
-      "enabled": false,
+      "appIds": [
+        "app-apk-mvyyiugs"
+      ],
+      "enabled": true,
       "subtitle": "Selected applications curated for you"
     },
     "newReleases": {
