@@ -49,7 +49,9 @@
     },
     "topDownloaded": {
       "title": "Top Downloaded",
-      "appIds": [],
+      "appIds": [
+        "app-draft-mw9ew3kf"
+      ],
       "enabled": true,
       "subtitle": "Most downloaded software with verified APKs"
     },
