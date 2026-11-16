@@ -48,7 +48,7 @@
     "newReleases": {
       "title": "New Releases",
       "appIds": [],
-      "enabled": true,
+      "enabled": false,
       "subtitle": "Freshly compiled software and releases"
     },
     "topDownloaded": {
