@@ -38,7 +38,7 @@
     "recommended": {
       "title": "Recommended for You",
       "appIds": [],
-      "enabled": true,
+      "enabled": false,
       "subtitle": "Selected applications curated for you"
     },
     "newReleases": {
