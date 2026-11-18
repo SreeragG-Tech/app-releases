@@ -75,13 +75,13 @@
       "Rush Counter Pager Alarm: Send two-way counter alerts between Admin and Worker devices.",
       "Privacy-Focused Operation: Processes payment notifications locally and provides optional SMS confirmation with user consent."
     ],
-    "whatsNew": "Version 2.0.0 initial launch release.",
+    "whatsNew": "- New Dynamic Top 4 UPI Analytics with manual app pinning.\n- Add custom UPI and local bank applications.\n- Redesigned Admin Control Panel with individual worker ACTIVE/MUTED controls.\n- Improved account switching and reinstall-safe Live Prices synchronization.\n- Enhanced PDF reports with a legal disclaimer.\n- Improved performance, smoother navigation and faster settings.\n- Better permission guidance and Malayalam voice setup instructions.",
     "changelog": [
       {
         "version": "2.0.0",
         "date": "2026-11-18",
         "notes": [
-          "Initial release."
+          "- New Dynamic Top 4 UPI Analytics with manual app pinning.\n- Add custom UPI and local bank applications.\n- Redesigned Admin Control Panel with individual worker ACTIVE/MUTED controls.\n- Improved account switching and reinstall-safe Live Prices synchronization.\n- Enhanced PDF reports with a legal disclaimer.\n- Improved performance, smoother navigation and faster settings.\n- Better permission guidance and Malayalam voice setup instructions."
         ]
       }
     ],
@@ -198,12 +198,12 @@
     },
     "downloadUrl": "/downloads/paydhwani-latest.apk",
     "apkUrl": "/downloads/paydhwani-latest.apk",
-    "releaseNotes": "",
+    "releaseNotes": "# PayDhwani v2.0.0 (Build 2)\n\n**Package ID:** com.sg.paydhwani\n**Version Name:** 2.0.0\n**Version Code:** 2\n**Minimum Android:** 8.0 (API 26)\n**Target SDK:** API 34\n**Release APK Size:** Approximately 5.22 MB\n\n## New Features\n\n- Dynamic Top 4 UPI Analytics with automatic ranking and manual pinning.\n- Custom UPI application registration using app names and package names.\n- Redesigned Admin Control Panel.\n- Individual worker ACTIVE and MUTED alert controls.\n- Extended UPI application filters.\n- PDF transaction report disclaimer.\n- Remote application version and service configuration.\n\n## Improvements\n\n- Optimized settings and Home screen toggles.\n- Off-main-thread Text-to-Speech initialization.\n- Improved navigation transitions.\n- R8 production minification and resource shrinking.\n- Improved Google account switching.\n- Better FCM notification handling.\n- Reinstall-safe Live Prices synchronization.\n- Improved permission and battery optimization guidance.\n\n## Requirements\n\n- Android 8.0 or later.\n- Notification Access permission.\n- Malayalam offline Text-to-Speech voice pack for Malayalam announcements.\n- Internet connection for Google Sign-In and cloud synchronization.\n\n## Important Disclaimer\n\nPayDhwani is an independent payment notification utility, not a bank or financial institution. Payment tracking depends on notifications provided by third-party UPI applications.",
     "packageType": "apk",
     "releaseDate": "2026-11-18",
     "updatedDate": "Nov 18, 2026",
     "createdAt": "2026-11-18",
-    "updatedAt": "2026-11-18T11:30:03.890Z",
+    "updatedAt": "2026-11-18T11:31:35.283Z",
     "featured": false,
     "newRelease": true,
     "isNewRelease": true,
@@ -224,8 +224,8 @@
     "screenshotAssetIds": [],
     "highlights": [],
     "searchKeywords": [],
-    "draftLastSaved": "04:59 PM",
-    "stagedPublishStage": 3,
+    "draftLastSaved": "05:01 PM",
+    "stagedPublishStage": 4,
     "iconAssetId": "asset-icon-1795001222129-a6lodp",
     "bannerAssetId": "asset-banner-1795001390022-ocvtx9",
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png"
