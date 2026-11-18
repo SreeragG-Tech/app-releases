@@ -877,295 +877,6 @@
     "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1794237241608-mu12rj.png"
   },
   {
-    "id": "app-draft-mwm0y3cr",
-    "slug": "paydhwani",
-    "name": "PayDhwani",
-    "tagline": "The Voice of Every Payment.",
-    "shortDescription": "Turn your Android phone into an offline Malayalam UPI soundbox with analytics, reports and multi-phone sync.",
-    "description": "PayDhwani transforms your Android smartphone into a smart Malayalam UPI payment soundbox, designed for shop owners, retailers and merchants.\n\nReceive instant spoken Malayalam announcements whenever a supported UPI payment notification arrives. Know the payment amount, sender name and payment application without constantly checking your phone.\n\n🔊 INSTANT MALAYALAM VOICE ANNOUNCEMENTS\n• Offline Malayalam Text-to-Speech announcements.\n• Clearly announces payment amounts and sender names.\n• Customizable announcement templates.\n• Adjustable speech rate, pitch and volume.\n• Customizable pre-announcement chimes.\n• Duplicate transaction protection.\n\n💳 EXTENSIVE UPI APPLICATION SUPPORT\n• Google Pay, PhonePe, Paytm and BHIM UPI.\n• Supports Navi, CRED, Amazon Pay and supported bank applications.\n• Digital Rupee (e₹) application support.\n• Add unsupported UPI applications using their package names.\n• Optional bank SMS credit confirmation.\n\n📱 MULTI-PHONE ADMIN & WORKER SYSTEM\n• Standalone, Admin and Worker modes.\n• Link staff devices using Google Sign-In.\n• Forward payment announcements to linked devices.\n• Control individual workers using ACTIVE and MUTED settings.\n• Silent Master Mode.\n• Two-way Rush Counter Pager Alarm.\n\n📊 BUSINESS ANALYTICS & REPORTS\n• Daily, weekly, monthly and custom date filters.\n• Track total collections and average transaction size.\n• Identify peak business hours.\n• Analyze collections by UPI application.\n• Dynamic Top 4 UPI application breakdown.\n• Export professional A4 PDF transaction reports.\n• Export CSV transaction records.\n\n🏷️ LIVE PRODUCT PRICES BOARD\n• Maintain a three-column product price board.\n• Quickly update prices using a numeric keypad.\n• Add custom products.\n• Synchronize prices across linked devices.\n• Optional PIN-protected worker editing.\n\n🔒 PRIVACY & RELIABILITY\n• Payment notification processing on-device.\n• No reading of personal chats or OTP messages.\n• Android Keystore encryption for sensitive session data.\n• Bluetooth speaker detection support.\n• Battery optimization guidance for reliable background operation.\n\nINTERNET REQUIREMENTS\nStandalone payment announcements, local analytics and report generation work offline. Google Sign-In, multi-phone synchronization, cloud prices and remote services require an internet connection.\n\nIMPORTANT REQUIREMENTS\nEnable Android Notification Access to detect payment notifications. Install the Malayalam (ml-IN) offline voice pack through Android Text-to-Speech settings for Malayalam announcements. Optional Bank SMS Confirmation requires manually enabling the feature.\n\nPayDhwani is an independent utility application, not a bank or financial institution. Payment detection depends on notifications from third-party payment applications. Transaction reports are intended for internal business tracking and are not official bank statements.\n\nTurn your existing Android phone into a smart Malayalam payment soundbox with PayDhwani.",
-    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1795001222129-a6lodp.png",
-    "iconColor": "#f59e0b",
-    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #f59e0b 100%)",
-    "accentColor": "#f59e0b",
-    "category": "utilities",
-    "categoryName": "Utilities",
-    "tags": [
-      "Android",
-      "UPI Soundbox",
-      "Malayalam",
-      "Payment Alert",
-      "Payment Alert",
-      "Google Pay",
-      "PhonePe",
-      "Paytm",
-      "Business Analytics",
-      "Merchant Tools",
-      "Offline TTS",
-      "Payment Announcer",
-      "Digital Rupee",
-      "PDF Reports",
-      "CSV Export",
-      "Multi Phone Sync",
-      "Kerala Business"
-    ],
-    "technologies": [
-      "Android SDK",
-      "arm64-v8a",
-      "armeabi-v7a",
-      "x86",
-      "x86_64",
-      "Kotlin"
-    ],
-    "version": "2.0.1",
-    "versionCode": "2",
-    "apkSize": "5.6 MB",
-    "size": "5.6 MB",
-    "packageName": "com.sg.paydhwani",
-    "minSdk": "Android 26+",
-    "targetSdk": "API 34",
-    "architectures": [
-      "arm64-v8a",
-      "armeabi-v7a",
-      "x86",
-      "x86_64"
-    ],
-    "downloads": 0,
-    "downloadsFormatted": "0",
-    "platform": [
-      "android"
-    ],
-    "developer": {
-      "name": "Sreerag G",
-      "handle": "@sreeragg",
-      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
-      "verified": true,
-      "website": "https://github.com/SreeragG-Tech"
-    },
-    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
-    "screenshots": [
-      {
-        "id": "sc-1",
-        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
-        "caption": "Main Application Interface",
-        "orientation": "portrait"
-      }
-    ],
-    "features": [
-      "Instant Offline Malayalam Voice Alerts: Announces incoming UPI payment amounts and sender names using Android's native Malayalam Text-to-Speech engine.",
-      "Major UPI Application Support: Supports Google Pay, PhonePe, Paytm, BHIM, Navi, CRED, Amazon Pay, supported bank apps and custom UPI applications.",
-      "Multi-Phone Admin & Worker Sync: Connect multiple shop devices using Google Sign-In and manage individual worker alert settings.",
-      "Smart Duplicate Transaction Protection: Helps prevent repeated payment announcements using configurable duplicate detection and UTR checks.",
-      "Business Analytics Dashboard: Analyze daily, weekly and monthly collections, average ticket size, peak hours and UPI application breakdowns.",
-      "Professional PDF & CSV Reports: Export structured A4 merchant transaction reports and CSV collection records.",
-      "Cloud-Synchronized Live Prices Board: Update product prices and synchronize them across linked Admin and Worker devices.",
-      "Customizable Voice & Sound Controls: Configure Malayalam announcement templates, speech speed, pitch, voice and chimes.",
-      "Rush Counter Pager Alarm: Send two-way counter alerts between Admin and Worker devices.",
-      "Privacy-Focused Operation: Processes payment notifications locally and provides optional SMS confirmation with user consent."
-    ],
-    "whatsNew": "Version 2.0.1 update.",
-    "changelog": [
-      {
-        "version": "2.0.1",
-        "date": "2026-11-18",
-        "notes": [
-          "Application version update."
-        ]
-      }
-    ],
-    "permissions": [
-      {
-        "name": "ACCESS_NETWORK_STATE",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BIND_JOB_SERVICE",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BIND_NOTIFICATION_LISTENER_SERVICE",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BLUETOOTH",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BLUETOOTH_ADMIN",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BLUETOOTH_CONNECT",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "BROADCAST_SMS",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "DUMP",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "FOREGROUND_SERVICE",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "FOREGROUND_SERVICE_DATA_SYNC",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "INTERNET",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "MODIFY_AUDIO_SETTINGS",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "POST_NOTIFICATIONS",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "RECEIVE_BOOT_COMPLETED",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "RECEIVE_SMS",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "USE_FULL_SCREEN_INTENT",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "VIBRATE",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      },
-      {
-        "name": "WAKE_LOCK",
-        "description": "Permissions declared in AndroidManifest.xml",
-        "required": true
-      }
-    ],
-    "compatibility": {
-      "minAndroid": "Android 26+",
-      "architecture": [
-        "arm64-v8a",
-        "armeabi-v7a",
-        "x86",
-        "x86_64"
-      ]
-    },
-    "downloadUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
-    "apkUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
-    "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/paydhwani-v2.0.1",
-    "githubAssetUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
-    "releaseNotes": "# PayDhwani v2.0.0 (Build 2)\n\n**Package ID:** com.sg.paydhwani\n**Version Name:** 2.0.0\n**Version Code:** 2\n**Minimum Android:** 8.0 (API 26)\n**Target SDK:** API 34\n**Release APK Size:** Approximately 5.22 MB\n\n## New Features\n\n- Dynamic Top 4 UPI Analytics with automatic ranking and manual pinning.\n- Custom UPI application registration using app names and package names.\n- Redesigned Admin Control Panel.\n- Individual worker ACTIVE and MUTED alert controls.\n- Extended UPI application filters.\n- PDF transaction report disclaimer.\n- Remote application version and service configuration.\n\n## Improvements\n\n- Optimized settings and Home screen toggles.\n- Off-main-thread Text-to-Speech initialization.\n- Improved navigation transitions.\n- R8 production minification and resource shrinking.\n- Improved Google account switching.\n- Better FCM notification handling.\n- Reinstall-safe Live Prices synchronization.\n- Improved permission and battery optimization guidance.\n\n## Requirements\n\n- Android 8.0 or later.\n- Notification Access permission.\n- Malayalam offline Text-to-Speech voice pack for Malayalam announcements.\n- Internet connection for Google Sign-In and cloud synchronization.\n\n## Important Disclaimer\n\nPayDhwani is an independent payment notification utility, not a bank or financial institution. Payment tracking depends on notifications provided by third-party UPI applications.",
-    "packageType": "apk",
-    "releaseDate": "2026-11-18",
-    "updatedDate": "Nov 18, 2026",
-    "createdAt": "2026-11-18",
-    "updatedAt": "2026-11-18T12:19:47.565Z",
-    "featured": false,
-    "newRelease": true,
-    "isNewRelease": true,
-    "published": true,
-    "status": "published",
-    "showInCategory": true,
-    "showInSearch": true,
-    "previousVersions": [],
-    "buildNumber": "2",
-    "platforms": [
-      "android"
-    ],
-    "artwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
-    "isWebProject": false,
-    "primaryDownloadAction": "apkUrl",
-    "license": "Apache 2.0 / MIT",
-    "isPublished": true,
-    "screenshotAssetIds": [],
-    "highlights": [],
-    "searchKeywords": [],
-    "draftLastSaved": "05:01 PM",
-    "stagedPublishStage": 4,
-    "iconAssetId": "asset-icon-1795001222129-a6lodp",
-    "bannerAssetId": "asset-banner-1795001390022-ocvtx9",
-    "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
-    "isRecentlyUpdated": true,
-    "trailerVideoUrl": "",
-    "featuresList": [
-      {
-        "title": "Instant Offline Malayalam Voice Alerts: Announces incoming UPI payment amounts and sender names using Android's native Malayalam Text-to-Speech engine.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Major UPI Application Support: Supports Google Pay, PhonePe, Paytm, BHIM, Navi, CRED, Amazon Pay, supported bank apps and custom UPI applications.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Multi-Phone Admin & Worker Sync: Connect multiple shop devices using Google Sign-In and manage individual worker alert settings.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Smart Duplicate Transaction Protection: Helps prevent repeated payment announcements using configurable duplicate detection and UTR checks.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Business Analytics Dashboard: Analyze daily, weekly and monthly collections, average ticket size, peak hours and UPI application breakdowns.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Professional PDF & CSV Reports: Export structured A4 merchant transaction reports and CSV collection records.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Cloud-Synchronized Live Prices Board: Update product prices and synchronize them across linked Admin and Worker devices.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Customizable Voice & Sound Controls: Configure Malayalam announcement templates, speech speed, pitch, voice and chimes.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Rush Counter Pager Alarm: Send two-way counter alerts between Admin and Worker devices.",
-        "description": "Core functionality included in package."
-      },
-      {
-        "title": "Privacy-Focused Operation: Processes payment notifications locally and provides optional SMS confirmation with user consent.",
-        "description": "Core functionality included in package."
-      }
-    ],
-    "webUrl": "",
-    "externalStoreUrl": ""
-  },
-  {
     "id": "web-1794830340129",
     "slug": "modelforge",
     "name": "ModelForge",
@@ -1611,5 +1322,294 @@
     "externalStoreUrl": "",
     "bannerAssetId": "asset-banner-1794463057521-0zg5b1",
     "screenshotAssetIds": []
+  },
+  {
+    "id": "app-draft-mwm0y3cr",
+    "slug": "paydhwani",
+    "name": "PayDhwani",
+    "tagline": "The Voice of Every Payment.",
+    "shortDescription": "Turn your Android phone into an offline Malayalam UPI soundbox with analytics, reports and multi-phone sync.",
+    "description": "PayDhwani transforms your Android smartphone into a smart Malayalam UPI payment soundbox, designed for shop owners, retailers and merchants.\n\nReceive instant spoken Malayalam announcements whenever a supported UPI payment notification arrives. Know the payment amount, sender name and payment application without constantly checking your phone.\n\n🔊 INSTANT MALAYALAM VOICE ANNOUNCEMENTS\n• Offline Malayalam Text-to-Speech announcements.\n• Clearly announces payment amounts and sender names.\n• Customizable announcement templates.\n• Adjustable speech rate, pitch and volume.\n• Customizable pre-announcement chimes.\n• Duplicate transaction protection.\n\n💳 EXTENSIVE UPI APPLICATION SUPPORT\n• Google Pay, PhonePe, Paytm and BHIM UPI.\n• Supports Navi, CRED, Amazon Pay and supported bank applications.\n• Digital Rupee (e₹) application support.\n• Add unsupported UPI applications using their package names.\n• Optional bank SMS credit confirmation.\n\n📱 MULTI-PHONE ADMIN & WORKER SYSTEM\n• Standalone, Admin and Worker modes.\n• Link staff devices using Google Sign-In.\n• Forward payment announcements to linked devices.\n• Control individual workers using ACTIVE and MUTED settings.\n• Silent Master Mode.\n• Two-way Rush Counter Pager Alarm.\n\n📊 BUSINESS ANALYTICS & REPORTS\n• Daily, weekly, monthly and custom date filters.\n• Track total collections and average transaction size.\n• Identify peak business hours.\n• Analyze collections by UPI application.\n• Dynamic Top 4 UPI application breakdown.\n• Export professional A4 PDF transaction reports.\n• Export CSV transaction records.\n\n🏷️ LIVE PRODUCT PRICES BOARD\n• Maintain a three-column product price board.\n• Quickly update prices using a numeric keypad.\n• Add custom products.\n• Synchronize prices across linked devices.\n• Optional PIN-protected worker editing.\n\n🔒 PRIVACY & RELIABILITY\n• Payment notification processing on-device.\n• No reading of personal chats or OTP messages.\n• Android Keystore encryption for sensitive session data.\n• Bluetooth speaker detection support.\n• Battery optimization guidance for reliable background operation.\n\nINTERNET REQUIREMENTS\nStandalone payment announcements, local analytics and report generation work offline. Google Sign-In, multi-phone synchronization, cloud prices and remote services require an internet connection.\n\nIMPORTANT REQUIREMENTS\nEnable Android Notification Access to detect payment notifications. Install the Malayalam (ml-IN) offline voice pack through Android Text-to-Speech settings for Malayalam announcements. Optional Bank SMS Confirmation requires manually enabling the feature.\n\nPayDhwani is an independent utility application, not a bank or financial institution. Payment detection depends on notifications from third-party payment applications. Transaction reports are intended for internal business tracking and are not official bank statements.\n\nTurn your existing Android phone into a smart Malayalam payment soundbox with PayDhwani.",
+    "icon": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/icon/asset-icon-1795001222129-a6lodp.png",
+    "iconColor": "#f59e0b",
+    "iconBgGradient": "linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #f59e0b 100%)",
+    "accentColor": "#f59e0b",
+    "category": "utilities",
+    "categoryName": "Utilities",
+    "tags": [
+      "Android",
+      "UPI Soundbox",
+      "Malayalam",
+      "Payment Alert",
+      "Payment Alert",
+      "Google Pay",
+      "PhonePe",
+      "Paytm",
+      "Business Analytics",
+      "Merchant Tools",
+      "Offline TTS",
+      "Payment Announcer",
+      "Digital Rupee",
+      "PDF Reports",
+      "CSV Export",
+      "Multi Phone Sync",
+      "Kerala Business"
+    ],
+    "technologies": [
+      "Android SDK",
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64",
+      "Kotlin"
+    ],
+    "version": "2.0.1",
+    "versionCode": "2",
+    "apkSize": "5.6 MB",
+    "size": "5.6 MB",
+    "packageName": "com.sg.paydhwani",
+    "minSdk": "Android 26+",
+    "targetSdk": "API 34",
+    "architectures": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "downloads": 0,
+    "downloadsFormatted": "0",
+    "platform": [
+      "android"
+    ],
+    "developer": {
+      "name": "Sreerag G",
+      "handle": "@sreeragg",
+      "avatar": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/screenshot/asset-screenshot-1790132924586-wrk59s.png?v=4",
+      "verified": true,
+      "website": "https://github.com/SreeragG-Tech"
+    },
+    "bannerArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
+    "screenshots": [
+      {
+        "id": "sc-1",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "caption": "Main Application Interface",
+        "orientation": "portrait"
+      }
+    ],
+    "features": [
+      "Instant Offline Malayalam Voice Alerts: Announces incoming UPI payment amounts and sender names using Android's native Malayalam Text-to-Speech engine.",
+      "Major UPI Application Support: Supports Google Pay, PhonePe, Paytm, BHIM, Navi, CRED, Amazon Pay, supported bank apps and custom UPI applications.",
+      "Multi-Phone Admin & Worker Sync: Connect multiple shop devices using Google Sign-In and manage individual worker alert settings.",
+      "Smart Duplicate Transaction Protection: Helps prevent repeated payment announcements using configurable duplicate detection and UTR checks.",
+      "Business Analytics Dashboard: Analyze daily, weekly and monthly collections, average ticket size, peak hours and UPI application breakdowns.",
+      "Professional PDF & CSV Reports: Export structured A4 merchant transaction reports and CSV collection records.",
+      "Cloud-Synchronized Live Prices Board: Update product prices and synchronize them across linked Admin and Worker devices.",
+      "Customizable Voice & Sound Controls: Configure Malayalam announcement templates, speech speed, pitch, voice and chimes.",
+      "Rush Counter Pager Alarm: Send two-way counter alerts between Admin and Worker devices.",
+      "Privacy-Focused Operation: Processes payment notifications locally and provides optional SMS confirmation with user consent."
+    ],
+    "whatsNew": "Version 2.0.1 update.",
+    "changelog": [
+      {
+        "version": "2.0.1",
+        "date": "2026-11-18",
+        "notes": [
+          "Application version update."
+        ]
+      }
+    ],
+    "permissions": [
+      {
+        "name": "ACCESS_NETWORK_STATE",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BIND_JOB_SERVICE",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BIND_NOTIFICATION_LISTENER_SERVICE",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BLUETOOTH",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BLUETOOTH_ADMIN",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BLUETOOTH_CONNECT",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "BROADCAST_SMS",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "DUMP",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "FOREGROUND_SERVICE",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "FOREGROUND_SERVICE_DATA_SYNC",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "INTERNET",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "MODIFY_AUDIO_SETTINGS",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "POST_NOTIFICATIONS",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "RECEIVE_BOOT_COMPLETED",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "RECEIVE_SMS",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "USE_FULL_SCREEN_INTENT",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "VIBRATE",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      },
+      {
+        "name": "WAKE_LOCK",
+        "description": "Permissions declared in AndroidManifest.xml",
+        "required": true
+      }
+    ],
+    "compatibility": {
+      "minAndroid": "Android 26+",
+      "architecture": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ]
+    },
+    "downloadUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
+    "apkUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
+    "githubReleaseUrl": "https://github.com/SreeragG-Tech/app-releases/releases/tag/paydhwani-v2.0.1",
+    "githubAssetUrl": "https://github.com/SreeragG-Tech/app-releases/releases/download/paydhwani-v2.0.1/PayDhwani-v2-release.apk",
+    "releaseNotes": "# PayDhwani v2.0.0 (Build 2)\n\n**Package ID:** com.sg.paydhwani\n**Version Name:** 2.0.0\n**Version Code:** 2\n**Minimum Android:** 8.0 (API 26)\n**Target SDK:** API 34\n**Release APK Size:** Approximately 5.22 MB\n\n## New Features\n\n- Dynamic Top 4 UPI Analytics with automatic ranking and manual pinning.\n- Custom UPI application registration using app names and package names.\n- Redesigned Admin Control Panel.\n- Individual worker ACTIVE and MUTED alert controls.\n- Extended UPI application filters.\n- PDF transaction report disclaimer.\n- Remote application version and service configuration.\n\n## Improvements\n\n- Optimized settings and Home screen toggles.\n- Off-main-thread Text-to-Speech initialization.\n- Improved navigation transitions.\n- R8 production minification and resource shrinking.\n- Improved Google account switching.\n- Better FCM notification handling.\n- Reinstall-safe Live Prices synchronization.\n- Improved permission and battery optimization guidance.\n\n## Requirements\n\n- Android 8.0 or later.\n- Notification Access permission.\n- Malayalam offline Text-to-Speech voice pack for Malayalam announcements.\n- Internet connection for Google Sign-In and cloud synchronization.\n\n## Important Disclaimer\n\nPayDhwani is an independent payment notification utility, not a bank or financial institution. Payment tracking depends on notifications provided by third-party UPI applications.",
+    "packageType": "apk",
+    "releaseDate": "2026-11-18",
+    "updatedDate": "Nov 18, 2026",
+    "createdAt": "2026-11-18",
+    "updatedAt": "2026-11-18T12:19:47.565Z",
+    "featured": false,
+    "newRelease": true,
+    "isNewRelease": true,
+    "published": true,
+    "status": "published",
+    "showInCategory": true,
+    "showInSearch": true,
+    "previousVersions": [],
+    "buildNumber": "2",
+    "platforms": [
+      "android"
+    ],
+    "artwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
+    "isWebProject": false,
+    "primaryDownloadAction": "apkUrl",
+    "license": "Apache 2.0 / MIT",
+    "isPublished": true,
+    "screenshotAssetIds": [],
+    "highlights": [],
+    "searchKeywords": [],
+    "draftLastSaved": "05:01 PM",
+    "stagedPublishStage": 4,
+    "iconAssetId": "asset-icon-1795001222129-a6lodp",
+    "bannerAssetId": "asset-banner-1795001390022-ocvtx9",
+    "featuredArtwork": "https://raw.githubusercontent.com/SreeragG-Tech/app-releases/main/media/banner/asset-banner-1795001390022-ocvtx9.png",
+    "isRecentlyUpdated": true,
+    "trailerVideoUrl": "",
+    "featuresList": [
+      {
+        "title": "Instant Offline Malayalam Voice Alerts: Announces incoming UPI payment amounts and sender names using Android's native Malayalam Text-to-Speech engine.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Major UPI Application Support: Supports Google Pay, PhonePe, Paytm, BHIM, Navi, CRED, Amazon Pay, supported bank apps and custom UPI applications.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Multi-Phone Admin & Worker Sync: Connect multiple shop devices using Google Sign-In and manage individual worker alert settings.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Smart Duplicate Transaction Protection: Helps prevent repeated payment announcements using configurable duplicate detection and UTR checks.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Business Analytics Dashboard: Analyze daily, weekly and monthly collections, average ticket size, peak hours and UPI application breakdowns.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Professional PDF & CSV Reports: Export structured A4 merchant transaction reports and CSV collection records.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Cloud-Synchronized Live Prices Board: Update product prices and synchronize them across linked Admin and Worker devices.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Customizable Voice & Sound Controls: Configure Malayalam announcement templates, speech speed, pitch, voice and chimes.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Rush Counter Pager Alarm: Send two-way counter alerts between Admin and Worker devices.",
+        "description": "Core functionality included in package."
+      },
+      {
+        "title": "Privacy-Focused Operation: Processes payment notifications locally and provides optional SMS confirmation with user consent.",
+        "description": "Core functionality included in package."
+      }
+    ],
+    "webUrl": "",
+    "externalStoreUrl": ""
   }
 ]
